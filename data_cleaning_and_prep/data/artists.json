@@ -1,0 +1,4870 @@
+[
+    {
+        "id": "0X2BH1fck6amBIoJhDVmmJ",
+        "name": "Ellie Goulding",
+        "genres": [
+            "dance pop",
+            "edm",
+            "electropop",
+            "indietronica"
+        ]
+    },
+    {
+        "id": "4Q6nIcaBED8qUel8bBx6Cr",
+        "name": "Jax Jones",
+        "genres": [
+            "dance pop",
+            "edm",
+            "electro house",
+            "house"
+        ]
+    },
+    {
+        "id": "0GgY7hjMoGDsX8ZDe2mwds",
+        "name": "Soolking",
+        "genres": [
+            "francoton",
+            "french hip hop",
+            "pop urbaine",
+            "rap algerien"
+        ]
+    },
+    {
+        "id": "0xRXCcSX89eobfrshSVdyu",
+        "name": "MEDUZA",
+        "genres": [
+            "edm",
+            "pop",
+            "pop dance",
+            "pop house"
+        ]
+    },
+    {
+        "id": "6W5uA6CNMf3hd2j4a2XWCx",
+        "name": "Naps",
+        "genres": [
+            "francoton",
+            "french hip hop",
+            "pop urbaine",
+            "rap marseille"
+        ]
+    },
+    {
+        "id": "4dpARuHxo51G3z768sgnrY",
+        "name": "Adele",
+        "genres": [
+            "british soul",
+            "pop",
+            "pop soul",
+            "uk pop"
+        ]
+    },
+    {
+        "id": "7CUFPNi1TU8RowpnFRSsZV",
+        "name": "Niska",
+        "genres": [
+            "francoton",
+            "french hip hop",
+            "pop urbaine",
+            "rap francais"
+        ]
+    },
+    {
+        "id": "1zNqDE7qDGCsyzJwohVaoX",
+        "name": "Anne-Marie",
+        "genres": [
+            "dance pop",
+            "pop",
+            "post-teen pop",
+            "tropical house"
+        ]
+    },
+    {
+        "id": "7dL0nOHwnSAsNAwpkPSGWP",
+        "name": "sangiovanni",
+        "genres": []
+    },
+    {
+        "id": "3t5xRXzsuZmMDkQzgOX35S",
+        "name": "Robin Schulz",
+        "genres": [
+            "dance pop",
+            "deep euro house",
+            "deep house",
+            "edm"
+        ]
+    },
+    {
+        "id": "67hb7towEyKvt5Z8Bx306c",
+        "name": "Empire of the Sun",
+        "genres": [
+            "alternative dance",
+            "australian dance",
+            "australian electropop",
+            "dance rock"
+        ]
+    },
+    {
+        "id": "48R2gYdPKtfnfKAzhSVPUx",
+        "name": "Migrantes",
+        "genres": [
+            "cumbia pop"
+        ]
+    },
+    {
+        "id": "5f7VJjfbwm532GiveGC0ZK",
+        "name": "Lil Baby",
+        "genres": [
+            "atl hip hop",
+            "atl trap",
+            "rap",
+            "trap"
+        ]
+    },
+    {
+        "id": "18ISxWwWjV6rPLoVCXf1dz",
+        "name": "RIN",
+        "genres": [
+            "german cloud rap",
+            "german hip hop"
+        ]
+    },
+    {
+        "id": "0XeEobZplHxzM9QzFQWLiR",
+        "name": "Eslabon Armado",
+        "genres": [
+            "corrido",
+            "corridos tumbados",
+            "nuevo regional mexicano",
+            "sierreno"
+        ]
+    },
+    {
+        "id": "07SFzTMeYf5P8Rd32a9Zzw",
+        "name": "AK AUSSERKONTROLLE",
+        "genres": [
+            "german hip hop"
+        ]
+    },
+    {
+        "id": "57n1OF36WvtOeATY6WQ6iw",
+        "name": "Digga D",
+        "genres": [
+            "aussie drill",
+            "london rap"
+        ]
+    },
+    {
+        "id": "5M9Bb4adKAgrOFOhc05Y50",
+        "name": "Pablo Albor\u00e1n",
+        "genres": [
+            "latin",
+            "latin arena pop",
+            "latin pop",
+            "spanish pop"
+        ]
+    },
+    {
+        "id": "07YUOmWljBTXwIseAUd9TW",
+        "name": "Sebastian Yatra",
+        "genres": [
+            "colombian pop",
+            "latin",
+            "reggaeton colombiano"
+        ]
+    },
+    {
+        "id": "4LwRgSkj7AJJTKLnEaHjMv",
+        "name": "Lucio101",
+        "genres": [
+            "german alternative rap",
+            "german drill",
+            "german hip hop",
+            "german trap"
+        ]
+    },
+    {
+        "id": "2NpPlwwDVYR5dIj0F31EcC",
+        "name": "Leony",
+        "genres": []
+    },
+    {
+        "id": "0C8ZW7ezQVs4URX5aX7Kqx",
+        "name": "Selena Gomez",
+        "genres": [
+            "dance pop",
+            "pop",
+            "post-teen pop"
+        ]
+    },
+    {
+        "id": "1q7T9rFQ2a2ukA1PU51fo3",
+        "name": "Koba LaD",
+        "genres": [
+            "french hip hop",
+            "pop urbaine",
+            "rap francais"
+        ]
+    },
+    {
+        "id": "33ScadVnbm2X8kkUqOkC6Z",
+        "name": "Don Omar",
+        "genres": [
+            "latin",
+            "latin hip hop",
+            "puerto rican pop",
+            "reggaeton"
+        ]
+    },
+    {
+        "id": "5TYxZTjIPqKM8K8NuP9woO",
+        "name": "C. Tangana",
+        "genres": [
+            "urbano espanol"
+        ]
+    },
+    {
+        "id": "0elWFr7TW8piilVRYJUe4P",
+        "name": "Natanael Cano",
+        "genres": [
+            "corrido",
+            "corridos tumbados",
+            "nuevo regional mexicano",
+            "regional mexican"
+        ]
+    },
+    {
+        "id": "6XyY86QOPPrYVGvF9ch6wz",
+        "name": "Linkin Park",
+        "genres": [
+            "alternative metal",
+            "nu metal",
+            "post-grunge",
+            "rap metal"
+        ]
+    },
+    {
+        "id": "4axKuDPr6WKcDCyh8vueTY",
+        "name": "Luar La L",
+        "genres": [
+            "reggaeton flow",
+            "trap latino"
+        ]
+    },
+    {
+        "id": "1qQLhymHXFPtP5U8KNKsm6",
+        "name": "Apache 207",
+        "genres": [
+            "german hip hop"
+        ]
+    },
+    {
+        "id": "1EXjXQpDx2pROygh8zvHs4",
+        "name": "Melendi",
+        "genres": [
+            "spanish pop",
+            "spanish pop rock"
+        ]
+    },
+    {
+        "id": "2hlmm7s2ICUX0LVIhVFlZQ",
+        "name": "Gunna",
+        "genres": [
+            "atl hip hop",
+            "hip hop",
+            "melodic rap",
+            "rap"
+        ]
+    },
+    {
+        "id": "1KCSPY1glIKqW2TotWuXOR",
+        "name": "P!nk",
+        "genres": [
+            "dance pop",
+            "pop"
+        ]
+    },
+    {
+        "id": "5C4PDR4LnhZTbVnKWXuDKD",
+        "name": "Morat",
+        "genres": [
+            "colombian pop",
+            "latin",
+            "latin pop"
+        ]
+    },
+    {
+        "id": "6l3HvQ5sa6mXTsMTB19rO5",
+        "name": "J. Cole",
+        "genres": [
+            "conscious hip hop",
+            "hip hop",
+            "north carolina hip hop",
+            "rap"
+        ]
+    },
+    {
+        "id": "3QVolfxko2UyCOtexhVTli",
+        "name": "Ang\u00e8le",
+        "genres": [
+            "belgian pop",
+            "variete francaise"
+        ]
+    },
+    {
+        "id": "7iK8PXO48WeuP03g8YR51W",
+        "name": "Myke Towers",
+        "genres": [
+            "trap latino"
+        ]
+    },
+    {
+        "id": "2IMZYfNi21MGqxopj9fWx8",
+        "name": "Rels B",
+        "genres": [
+            "r&b en espanol",
+            "spanish hip hop",
+            "trap latino",
+            "urbano espanol"
+        ]
+    },
+    {
+        "id": "1Xylc3o4UrD53lo9CvFvVg",
+        "name": "Zara Larsson",
+        "genres": [
+            "dance pop",
+            "edm",
+            "electropop",
+            "pop"
+        ]
+    },
+    {
+        "id": "39KEQQAG9JhIt71g9NEVhh",
+        "name": "Azet",
+        "genres": [
+            "albanian hip hop",
+            "german hip hop"
+        ]
+    },
+    {
+        "id": "1Xyo4u8uXC1ZmMpatF05PJ",
+        "name": "The Weeknd",
+        "genres": [
+            "canadian contemporary r&b",
+            "canadian pop",
+            "pop"
+        ]
+    },
+    {
+        "id": "2kCcBybjl3SAtIcwdWpUe3",
+        "name": "Lil Peep",
+        "genres": [
+            "emo rap",
+            "lgbtq+ hip hop"
+        ]
+    },
+    {
+        "id": "78rUTD7y6Cy67W1RVzYs7t",
+        "name": "PinkPantheress",
+        "genres": [
+            "russian plugg"
+        ]
+    },
+    {
+        "id": "3y24n3XhZ96wgwRXjvS17T",
+        "name": "Coolio",
+        "genres": [
+            "g funk",
+            "gangster rap",
+            "hip hop",
+            "rap"
+        ]
+    },
+    {
+        "id": "6KImCVD70vtIoJWnq6nGn3",
+        "name": "Harry Styles",
+        "genres": [
+            "pop"
+        ]
+    },
+    {
+        "id": "768O5GliF0bqscyghggrbE",
+        "name": "Polim\u00e1 Westcoast",
+        "genres": [
+            "trap chileno",
+            "trap latino",
+            "trap triste"
+        ]
+    },
+    {
+        "id": "50co4Is1HCEo8bhOyUWKpn",
+        "name": "Young Thug",
+        "genres": [
+            "atl hip hop",
+            "atl trap",
+            "gangster rap",
+            "hip hop"
+        ]
+    },
+    {
+        "id": "2NJWI8byqTSqDaJRnqJY2z",
+        "name": "KALIM",
+        "genres": [
+            "german hip hop",
+            "german trap",
+            "hamburg hip hop"
+        ]
+    },
+    {
+        "id": "4m6ubhNsdwF4psNf3R8kwR",
+        "name": "KHEA",
+        "genres": [
+            "argentine hip hop",
+            "trap argentino",
+            "trap latino",
+            "trap triste"
+        ]
+    },
+    {
+        "id": "3FtVhV92rZyHa7ot2ioG5a",
+        "name": "El Bobe",
+        "genres": [
+            "drill espanol",
+            "rap espanol",
+            "trap latino",
+            "urbano espanol"
+        ]
+    },
+    {
+        "id": "6LuN9FCkKOj5PcnpouEgny",
+        "name": "Khalid",
+        "genres": [
+            "pop",
+            "pop r&b"
+        ]
+    },
+    {
+        "id": "3utZ2yeQk0Z3BCOBWP7Vlu",
+        "name": "CRO",
+        "genres": [
+            "german hip hop",
+            "pop rap"
+        ]
+    },
+    {
+        "id": "56ZTgzPBDge0OvCGgMO3OY",
+        "name": "Beach House",
+        "genres": [
+            "baltimore indie",
+            "dream pop",
+            "dreamo",
+            "modern dream pop"
+        ]
+    },
+    {
+        "id": "4az97MtWmBQ5Db3GfDh9j9",
+        "name": "Morad",
+        "genres": [
+            "drill espanol",
+            "urbano espanol"
+        ]
+    },
+    {
+        "id": "77SW9BnxLY8rJ0RciFqkHh",
+        "name": "The Neighbourhood",
+        "genres": [
+            "modern alternative rock",
+            "modern rock",
+            "pop"
+        ]
+    },
+    {
+        "id": "08GQAI4eElDnROBrJRGE0X",
+        "name": "Fleetwood Mac",
+        "genres": [
+            "album rock",
+            "classic rock",
+            "mellow gold",
+            "rock"
+        ]
+    },
+    {
+        "id": "3GxKJzJK4LpsYGXQrw77wz",
+        "name": "Mimi Webb",
+        "genres": [
+            "alt z",
+            "dance pop",
+            "gen z singer-songwriter",
+            "pop"
+        ]
+    },
+    {
+        "id": "716NhGYqD1jl2wI1Qkgq36",
+        "name": "Bizarrap",
+        "genres": [
+            "argentine hip hop",
+            "pop venezolano",
+            "trap argentino",
+            "trap latino"
+        ]
+    },
+    {
+        "id": "1Yfe3ONJlioHys7jwHdfVm",
+        "name": "Lomepal",
+        "genres": [
+            "french hip hop",
+            "rap conscient"
+        ]
+    },
+    {
+        "id": "7ACEUD7UsmmXrnj4OLt8f9",
+        "name": "twocolors",
+        "genres": [
+            "dance pop",
+            "edm",
+            "electro house",
+            "pop dance"
+        ]
+    },
+    {
+        "id": "3bvfu2KAve4lPHrhEFDZna",
+        "name": "Lola Indigo",
+        "genres": [
+            "latin pop",
+            "spanish pop"
+        ]
+    },
+    {
+        "id": "5Y3MV9DZ0d87NnVm56qSY1",
+        "name": "Tiago PZK",
+        "genres": [
+            "trap argentino"
+        ]
+    },
+    {
+        "id": "1E8mXBWN7AXZCOPYbOky4J",
+        "name": "Jazeek",
+        "genres": [
+            "german hip hop",
+            "german trap"
+        ]
+    },
+    {
+        "id": "1GDbiv3spRmZ1XdM1jQbT7",
+        "name": "Natti Natasha",
+        "genres": [
+            "latin",
+            "latin pop",
+            "rap latina",
+            "reggaeton"
+        ]
+    },
+    {
+        "id": "2CCgb0KApjfQDuTppovpf8",
+        "name": "Rvfv",
+        "genres": [
+            "dominican pop",
+            "drill espanol",
+            "flamenco urbano",
+            "trap latino"
+        ]
+    },
+    {
+        "id": "3Hvx3BM0K4FHBs9J3k8G6V",
+        "name": "NGEE",
+        "genres": [
+            "german hip hop",
+            "german underground rap"
+        ]
+    },
+    {
+        "id": "5H4yInM5zmHqpKIoMNAx4r",
+        "name": "Central Cee",
+        "genres": [
+            "drill brasileiro"
+        ]
+    },
+    {
+        "id": "2z2TRvloJt4EfUNQp9rHAi",
+        "name": "Alonzo",
+        "genres": [
+            "francoton",
+            "french hip hop",
+            "french pop",
+            "pop urbaine"
+        ]
+    },
+    {
+        "id": "1yxSLGMDHlW21z4YXirZDS",
+        "name": "Black Eyed Peas",
+        "genres": [
+            "dance pop",
+            "pop",
+            "pop rap"
+        ]
+    },
+    {
+        "id": "3lY9Fxceu60W1rbon7PkuF",
+        "name": "Omar Montes",
+        "genres": [
+            "flamenco urbano",
+            "trap latino",
+            "urbano espanol"
+        ]
+    },
+    {
+        "id": "0C0XlULifJtAgn6ZNCW2eu",
+        "name": "The Killers",
+        "genres": [
+            "alternative rock",
+            "dance rock",
+            "modern rock",
+            "permanent wave"
+        ]
+    },
+    {
+        "id": "0oxWjDXa2iXcVB11n8RY3U",
+        "name": "BOJAN",
+        "genres": [
+            "german hip hop"
+        ]
+    },
+    {
+        "id": "4Gso3d4CscCijv0lmajZWs",
+        "name": "Don Toliver",
+        "genres": [
+            "pop",
+            "rap",
+            "trap"
+        ]
+    },
+    {
+        "id": "1QJbbsxg2wqidJj51d3otw",
+        "name": "Natos y Waor",
+        "genres": [
+            "rap underground espanol",
+            "spanish hip hop",
+            "urbano espanol"
+        ]
+    },
+    {
+        "id": "7I2JG3CcPawkeQPE7uypHJ",
+        "name": "HBz",
+        "genres": [
+            "melbourne bounce international",
+            "partyschlager"
+        ]
+    },
+    {
+        "id": "5XJDexmWFLWOkjOEjOVX3e",
+        "name": "Eladio Carrion",
+        "genres": [
+            "trap boricua",
+            "trap latino",
+            "trap triste"
+        ]
+    },
+    {
+        "id": "2UZIAOlrnyZmyzt1nuXr9y",
+        "name": "Nicki Nicole",
+        "genres": [
+            "argentine hip hop",
+            "r&b argentino",
+            "trap argentino",
+            "trap latino"
+        ]
+    },
+    {
+        "id": "0oeiA5U9u1U45Gos5cywUU",
+        "name": "Soso Maness",
+        "genres": [
+            "francoton",
+            "french hip hop",
+            "pop urbaine",
+            "rap francais"
+        ]
+    },
+    {
+        "id": "3Z3aTg9PwJ37e8xeO0aUC9",
+        "name": "01099",
+        "genres": [
+            "german hip hop",
+            "german trap"
+        ]
+    },
+    {
+        "id": "3pVfscwg2QxhdHtk966inb",
+        "name": "The Cratez",
+        "genres": []
+    },
+    {
+        "id": "4nDoRrQiYLoBzwC5BhVJzF",
+        "name": "Camila Cabello",
+        "genres": [
+            "dance pop",
+            "pop",
+            "post-teen pop"
+        ]
+    },
+    {
+        "id": "2JwyRtuXf2l6sTnSnGVIa1",
+        "name": "Farid Bang",
+        "genres": [
+            "german hip hop"
+        ]
+    },
+    {
+        "id": "0Y6dVaC9DZtPNH4591M42W",
+        "name": "TV Girl",
+        "genres": [
+            "indie pop"
+        ]
+    },
+    {
+        "id": "10exVja0key0uqUkk6LJRT",
+        "name": "Vance Joy",
+        "genres": [
+            "folk-pop",
+            "modern rock",
+            "pop",
+            "pop rock"
+        ]
+    },
+    {
+        "id": "6JL8zeS1NmiOftqZTRgdTz",
+        "name": "Meghan Trainor",
+        "genres": [
+            "dance pop",
+            "hip pop",
+            "pop",
+            "post-teen pop"
+        ]
+    },
+    {
+        "id": "66Ok6bgC570sHkw08N20pZ",
+        "name": "OBOY",
+        "genres": [
+            "french hip hop",
+            "pop urbaine"
+        ]
+    },
+    {
+        "id": "0Y5tJX1MQlPlqiwlOH1tJY",
+        "name": "Travis Scott",
+        "genres": [
+            "rap",
+            "slap house"
+        ]
+    },
+    {
+        "id": "5Q30fhTc0Sl0Q4C5dOjhhQ",
+        "name": "La La Love You",
+        "genres": [
+            "spanish indie pop",
+            "spanish pop"
+        ]
+    },
+    {
+        "id": "56oDRnqbIiwx4mymNEv7dS",
+        "name": "Lizzo",
+        "genres": [
+            "dance pop",
+            "escape room",
+            "minnesota hip hop",
+            "pop"
+        ]
+    },
+    {
+        "id": "5rGrDvrLOV2VV8SCFVGWlj",
+        "name": "Imanbek",
+        "genres": [
+            "dance pop",
+            "edm",
+            "electro house",
+            "pop dance"
+        ]
+    },
+    {
+        "id": "4BFLElxtBEdsdwGA1kHTsx",
+        "name": "ElGrandeToto",
+        "genres": [
+            "arabic hip hop",
+            "rap maroc"
+        ]
+    },
+    {
+        "id": "7gU9VyFRN3JWPJ5oHOil60",
+        "name": "Tayc",
+        "genres": [
+            "francoton",
+            "pop urbaine"
+        ]
+    },
+    {
+        "id": "4EPJlUEBy49EX1wuFOvtjK",
+        "name": "Becky Hill",
+        "genres": [
+            "dance pop",
+            "pop",
+            "pop dance",
+            "pop house"
+        ]
+    },
+    {
+        "id": "1DxLCyH42yaHKGK3cl5bvG",
+        "name": "Maria Becerra",
+        "genres": [
+            "pop argentino"
+        ]
+    },
+    {
+        "id": "6veh5zbFpm31XsPdjBgPER",
+        "name": "BIA",
+        "genres": [
+            "escape room",
+            "pop",
+            "r&b",
+            "rap latina"
+        ]
+    },
+    {
+        "id": "0hCNtLu0JehylgoiP8L4Gh",
+        "name": "Nicki Minaj",
+        "genres": [
+            "dance pop",
+            "hip pop",
+            "pop",
+            "pop rap"
+        ]
+    },
+    {
+        "id": "0eHQ9o50hj6ZDNBt6Ys1sD",
+        "name": "Yandel",
+        "genres": [
+            "latin",
+            "latin hip hop",
+            "reggaeton",
+            "reggaeton flow"
+        ]
+    },
+    {
+        "id": "4LXBc13z5EWsc5N32bLxfH",
+        "name": "Nekfeu",
+        "genres": [
+            "french hip hop",
+            "pop urbaine",
+            "rap conscient"
+        ]
+    },
+    {
+        "id": "0Dvx6p8JDyzeOPGmaCIH1L",
+        "name": "RAF Camora",
+        "genres": [
+            "german hip hop"
+        ]
+    },
+    {
+        "id": "3ZuBEj9ppJe8GSdKaMTfMN",
+        "name": "Nimo",
+        "genres": [
+            "german hip hop",
+            "swedish hip hop"
+        ]
+    },
+    {
+        "id": "15UsOTVnJzReFVN1VCnxy4",
+        "name": "XXXTENTACION",
+        "genres": [
+            "emo rap",
+            "miami hip hop"
+        ]
+    },
+    {
+        "id": "1mcTU81TzQhprhouKaTkpq",
+        "name": "Rauw Alejandro",
+        "genres": [
+            "puerto rican pop",
+            "trap latino"
+        ]
+    },
+    {
+        "id": "6E94QKXZv8BbO6QQJxcxLI",
+        "name": "Daviles de Novelda",
+        "genres": [
+            "dominican pop",
+            "flamenco urbano",
+            "pop flamenco"
+        ]
+    },
+    {
+        "id": "7tYKF4w9nC0nq9CsPZTHyP",
+        "name": "SZA",
+        "genres": [
+            "pop",
+            "r&b",
+            "rap"
+        ]
+    },
+    {
+        "id": "1UjxAZqzphB1tsMb1aWBj0",
+        "name": "Omega",
+        "genres": [
+            "dominican pop",
+            "rap dominicano"
+        ]
+    },
+    {
+        "id": "6ydoSd3N2mwgwBHtF6K7eX",
+        "name": "Calum Scott",
+        "genres": [
+            "neo mellow",
+            "pop"
+        ]
+    },
+    {
+        "id": "4e0nWw2r4BoQSKPQ2zpU13",
+        "name": "Ray Dalton",
+        "genres": []
+    },
+    {
+        "id": "1XKjtpH5P81gpOXDB91IEB",
+        "name": "Miami Yacine",
+        "genres": [
+            "albanian hip hop",
+            "german hip hop"
+        ]
+    },
+    {
+        "id": "4bL2B6hmLlMWnUEZnorEtG",
+        "name": "Felix Jaehn",
+        "genres": [
+            "dance pop",
+            "edm",
+            "electro house",
+            "german dance"
+        ]
+    },
+    {
+        "id": "06HL4z0CvFAxyc27GXpf02",
+        "name": "Taylor Swift",
+        "genres": [
+            "pop"
+        ]
+    },
+    {
+        "id": "1U1el3k54VvEUzo3ybLPlM",
+        "name": "Kali Uchis",
+        "genres": [
+            "colombian pop",
+            "pop"
+        ]
+    },
+    {
+        "id": "2YZyLoL8N0Wb9xBt1NhZWg",
+        "name": "Kendrick Lamar",
+        "genres": [
+            "conscious hip hop",
+            "hip hop",
+            "rap",
+            "west coast rap"
+        ]
+    },
+    {
+        "id": "6jGMq4yGs7aQzuGsMgVgZR",
+        "name": "Lil Tjay",
+        "genres": [
+            "brooklyn drill",
+            "melodic rap",
+            "nyc rap"
+        ]
+    },
+    {
+        "id": "4hz8tIajF2INpgM0qzPJz2",
+        "name": "Rainbow Kitten Surprise",
+        "genres": [
+            "modern rock",
+            "stomp and holler"
+        ]
+    },
+    {
+        "id": "2Diqn1jFkehRd9MVDGKGdq",
+        "name": "Eddin",
+        "genres": [
+            "german hip hop"
+        ]
+    },
+    {
+        "id": "4P3RXClUWZnQAO6BfrEQXb",
+        "name": "ART",
+        "genres": [
+            "german hip hop",
+            "german trap"
+        ]
+    },
+    {
+        "id": "4GNC7GD6oZMSxPGyXy4MNB",
+        "name": "Lewis Capaldi",
+        "genres": [
+            "pop",
+            "uk pop"
+        ]
+    },
+    {
+        "id": "64KEffDW9EtZ1y2vBYgq8T",
+        "name": "Marshmello",
+        "genres": [
+            "brostep",
+            "dance pop",
+            "edm",
+            "pop"
+        ]
+    },
+    {
+        "id": "5Pwc4xIPtQLFEnJriah9YJ",
+        "name": "OneRepublic",
+        "genres": [
+            "dance pop",
+            "piano rock",
+            "pop",
+            "pop rock"
+        ]
+    },
+    {
+        "id": "7bXgB6jMjp9ATFy66eO08Z",
+        "name": "Chris Brown",
+        "genres": [
+            "dance pop",
+            "pop",
+            "pop rap",
+            "r&b"
+        ]
+    },
+    {
+        "id": "0rvjqX7ttXeg3mTy8Xscbt",
+        "name": "Journey",
+        "genres": [
+            "album rock",
+            "classic rock",
+            "hard rock",
+            "mellow gold"
+        ]
+    },
+    {
+        "id": "329e4yvIujISKGKz1BZZbO",
+        "name": "Farruko",
+        "genres": [
+            "latin",
+            "reggaeton",
+            "trap latino"
+        ]
+    },
+    {
+        "id": "0Q8NcsJwoCbZOHHW63su5S",
+        "name": "Mora",
+        "genres": [
+            "reggaeton",
+            "trap latino"
+        ]
+    },
+    {
+        "id": "7Gi6gjaWy3DxyilpF1a8Is",
+        "name": "Junior H",
+        "genres": [
+            "corridos tumbados",
+            "nuevo regional mexicano",
+            "regional mexican",
+            "sierreno"
+        ]
+    },
+    {
+        "id": "6Ip8FS7vWT1uKkJSweANQK",
+        "name": "Dave",
+        "genres": [
+            "uk hip hop"
+        ]
+    },
+    {
+        "id": "1tZ99AnqyjgrmPwLfGU5eo",
+        "name": "Fito y Fitipaldis",
+        "genres": [
+            "cantautor",
+            "latin rock",
+            "rock en espanol",
+            "spanish pop"
+        ]
+    },
+    {
+        "id": "1r4hJ1h58CWwUQe3MxPuau",
+        "name": "Maluma",
+        "genres": [
+            "latin",
+            "reggaeton",
+            "reggaeton colombiano",
+            "trap latino"
+        ]
+    },
+    {
+        "id": "4Jd9XCHzRXTB7ZPPVzJoUm",
+        "name": "Milano",
+        "genres": [
+            "german hip hop"
+        ]
+    },
+    {
+        "id": "5lwmRuXgjX8xIwlnauTZIP",
+        "name": "Romeo Santos",
+        "genres": [
+            "bachata",
+            "latin"
+        ]
+    },
+    {
+        "id": "2rEVnwCPBeGkWMv425KoG1",
+        "name": "AYLIVA",
+        "genres": [
+            "german hip hop"
+        ]
+    },
+    {
+        "id": "1Yj5Xey7kTwvZla8sqdsdE",
+        "name": "Cris Mj",
+        "genres": [
+            "mambo chileno",
+            "trap latino"
+        ]
+    },
+    {
+        "id": "0ys2OFYzWYB5hRDLCsBqxt",
+        "name": "Fuerza Regida",
+        "genres": [
+            "corrido",
+            "corridos tumbados",
+            "nuevo regional mexicano",
+            "regional mexican"
+        ]
+    },
+    {
+        "id": "5gqmbbfjcikQBzPB5Hv13I",
+        "name": "Gazo",
+        "genres": [
+            "drill francais",
+            "french hip hop",
+            "pop urbaine",
+            "rap francais"
+        ]
+    },
+    {
+        "id": "3LvwPiJQJ0da0GurKMToV0",
+        "name": "Baby Gang",
+        "genres": [
+            "italian hip hop",
+            "trap italiana"
+        ]
+    },
+    {
+        "id": "74KM79TiuVKeVCqs8QtB0B",
+        "name": "Sabrina Carpenter",
+        "genres": [
+            "alt z",
+            "dance pop",
+            "electropop",
+            "pop"
+        ]
+    },
+    {
+        "id": "1vCWHaC5f2uS3yhpwWbIA6",
+        "name": "Avicii",
+        "genres": [
+            "dance pop",
+            "edm",
+            "pop",
+            "pop dance"
+        ]
+    },
+    {
+        "id": "45dkTj5sMRSjrmBSBeiHym",
+        "name": "Tate McRae",
+        "genres": [
+            "alt z",
+            "dance pop",
+            "pop",
+            "post-teen pop"
+        ]
+    },
+    {
+        "id": "4O15NlyKLIASxsJ0PrXPfz",
+        "name": "Lil Uzi Vert",
+        "genres": [
+            "melodic rap",
+            "philly rap",
+            "rap",
+            "trap"
+        ]
+    },
+    {
+        "id": "6h1s4i4XKIYv4ErDelLDN0",
+        "name": "Samra",
+        "genres": [
+            "german hip hop"
+        ]
+    },
+    {
+        "id": "2ubn2zwyYaLdHOCKnTouU2",
+        "name": "Ziak",
+        "genres": [
+            "drill francais"
+        ]
+    },
+    {
+        "id": "3tQzzidoPfVifoURnDfgmD",
+        "name": "t-low",
+        "genres": [
+            "german hip hop",
+            "german trap"
+        ]
+    },
+    {
+        "id": "3QSQFmccmX81fWCUSPTS7y",
+        "name": "Dean Lewis",
+        "genres": [
+            "australian pop",
+            "pop",
+            "pop rock"
+        ]
+    },
+    {
+        "id": "5cj0lLjcoR7YOSnhnX0Po5",
+        "name": "Doja Cat",
+        "genres": [
+            "dance pop",
+            "pop"
+        ]
+    },
+    {
+        "id": "1dfeR4HaWDbWqFHLkxsg1d",
+        "name": "Queen",
+        "genres": [
+            "classic rock",
+            "glam rock",
+            "rock"
+        ]
+    },
+    {
+        "id": "4npEfmQ6YuiwW1GpUmaq3F",
+        "name": "Ava Max",
+        "genres": [
+            "dance pop",
+            "pop"
+        ]
+    },
+    {
+        "id": "1McMsnEElThX1knmY4oliG",
+        "name": "Olivia Rodrigo",
+        "genres": [
+            "pop"
+        ]
+    },
+    {
+        "id": "4obzFoKoKRHIphyHzJ35G3",
+        "name": "Becky G",
+        "genres": [
+            "dance pop",
+            "latin",
+            "latin pop",
+            "latin viral pop"
+        ]
+    },
+    {
+        "id": "4IWBUUAFIplrNtaOHcJPRM",
+        "name": "James Arthur",
+        "genres": [
+            "pop",
+            "talent show",
+            "uk pop"
+        ]
+    },
+    {
+        "id": "4CAsSAU842glNKJX71ndA9",
+        "name": "Louise Attaque",
+        "genres": [
+            "chanson",
+            "french pop",
+            "french reggae",
+            "french rock"
+        ]
+    },
+    {
+        "id": "7ltDVBr6mKbRvohxheJ9h1",
+        "name": "ROSAL\u00cdA",
+        "genres": [
+            "r&b en espanol"
+        ]
+    },
+    {
+        "id": "246dkjvS1zLTtiykXe5h60",
+        "name": "Post Malone",
+        "genres": [
+            "dfw rap",
+            "melodic rap",
+            "rap"
+        ]
+    },
+    {
+        "id": "1RyvyyTE3xzB2ZywiAwp0i",
+        "name": "Future",
+        "genres": [
+            "atl hip hop",
+            "hip hop",
+            "pop rap",
+            "rap"
+        ]
+    },
+    {
+        "id": "1vyhD5VmyZ7KMfW5gqLgo5",
+        "name": "J Balvin",
+        "genres": [
+            "latin",
+            "reggaeton",
+            "reggaeton colombiano",
+            "trap latino"
+        ]
+    },
+    {
+        "id": "7eLcDZDYHXZCebtQmVFL25",
+        "name": "Aitana",
+        "genres": [
+            "latin pop",
+            "latin talent show",
+            "spanish pop"
+        ]
+    },
+    {
+        "id": "4SsVbpTthjScTS7U2hmr1X",
+        "name": "Arcangel",
+        "genres": [
+            "latin",
+            "latin hip hop",
+            "reggaeton",
+            "trap latino"
+        ]
+    },
+    {
+        "id": "6Te49r3A6f5BiIgBRxH7FH",
+        "name": "Ninho",
+        "genres": [
+            "french hip hop",
+            "pop urbaine"
+        ]
+    },
+    {
+        "id": "4YLtscXsxbVgi031ovDDdh",
+        "name": "Chris Stapleton",
+        "genres": [
+            "contemporary country",
+            "outlaw country"
+        ]
+    },
+    {
+        "id": "5N3YDBGT2gUzXgLDTwPRi5",
+        "name": "\u00c1lvaro De Luna",
+        "genres": [
+            "spanish pop"
+        ]
+    },
+    {
+        "id": "3MZsBdqDrRTJihTHQrO6Dq",
+        "name": "Joji",
+        "genres": [
+            "alternative r&b",
+            "viral pop"
+        ]
+    },
+    {
+        "id": "0FwnPHExlRRxEZPLAi5tmG",
+        "name": "JC Reyes",
+        "genres": [
+            "flamenco urbano",
+            "trap latino",
+            "urbano espanol"
+        ]
+    },
+    {
+        "id": "4sbXXFzEWJY2zsZjelerjX",
+        "name": "Dadju",
+        "genres": [
+            "francoton",
+            "french hip hop",
+            "french pop",
+            "pop urbaine"
+        ]
+    },
+    {
+        "id": "6L34dW6SKMSDaGIfYDU19j",
+        "name": "Maes",
+        "genres": [
+            "french hip hop",
+            "pop urbaine",
+            "rap francais"
+        ]
+    },
+    {
+        "id": "3pjq2pDV9RR6VY55wBjVnp",
+        "name": "Dardan",
+        "genres": [
+            "albanian hip hop",
+            "german hip hop"
+        ]
+    },
+    {
+        "id": "53XhwfbYqKCa1cC15pYq2q",
+        "name": "Imagine Dragons",
+        "genres": [
+            "modern rock",
+            "rock"
+        ]
+    },
+    {
+        "id": "7jVv8c5Fj3E9VhNjxT4snq",
+        "name": "Lil Nas X",
+        "genres": [
+            "lgbtq+ hip hop",
+            "pop"
+        ]
+    },
+    {
+        "id": "4q3ewBCX7sLwd24euuV69X",
+        "name": "Bad Bunny",
+        "genres": [
+            "latin",
+            "reggaeton",
+            "trap latino"
+        ]
+    },
+    {
+        "id": "1i8SpTcr7yvPOmcqrbnVXY",
+        "name": "Ozuna",
+        "genres": [
+            "latin",
+            "puerto rican pop",
+            "reggaeton",
+            "trap latino"
+        ]
+    },
+    {
+        "id": "0lAWpj5szCSwM4rUMHYmrr",
+        "name": "M\u00e5neskin",
+        "genres": [
+            "indie rock italiano",
+            "italian pop"
+        ]
+    },
+    {
+        "id": "1ul8iLt2WnFe2UIyovjg7q",
+        "name": "reezy",
+        "genres": [
+            "german hip hop",
+            "german r&b",
+            "german trap"
+        ]
+    },
+    {
+        "id": "76dRoxKtDwYkgCQePok9cU",
+        "name": "Miksu \/ Macloud",
+        "genres": [
+            "german hip hop"
+        ]
+    },
+    {
+        "id": "2EMAnMvWE2eb56ToJVfCWs",
+        "name": "Bryson Tiller",
+        "genres": [
+            "kentucky hip hop",
+            "pop",
+            "pop rap",
+            "r&b"
+        ]
+    },
+    {
+        "id": "4F4pp8NUW08JuXwnoxglpN",
+        "name": "Bad Gyal",
+        "genres": [
+            "rap catala",
+            "rap latina",
+            "trap catala",
+            "trap latino"
+        ]
+    },
+    {
+        "id": "0VlrorDSkEbLK1D6VvMgd2",
+        "name": "Rubi",
+        "genres": []
+    },
+    {
+        "id": "2LRoIwlKmHjgvigdNGBHNo",
+        "name": "Feid",
+        "genres": [
+            "colombian pop",
+            "latin",
+            "pop reggaeton",
+            "reggaeton"
+        ]
+    },
+    {
+        "id": "77ziqFxp5gaInVrF2lj4ht",
+        "name": "Sech",
+        "genres": [
+            "latin",
+            "panamanian pop",
+            "reggaeton",
+            "trap latino"
+        ]
+    },
+    {
+        "id": "2Z9KL8Zmqx5Sg3cd7Fldhl",
+        "name": "Olexesh",
+        "genres": [
+            "deep german hip hop",
+            "german drill",
+            "german hip hop"
+        ]
+    },
+    {
+        "id": "4oUHIQIBe0LHzYfvXNW4QM",
+        "name": "Morgan Wallen",
+        "genres": [
+            "contemporary country"
+        ]
+    },
+    {
+        "id": "3VHAySZQPlfGlNLslzXYpN",
+        "name": "Nathy Peluso",
+        "genres": [
+            "r&b en espanol",
+            "rap latina"
+        ]
+    },
+    {
+        "id": "1aS5tqEs9ci5P9KD9tZWa6",
+        "name": "Bonez MC",
+        "genres": [
+            "german hip hop",
+            "hamburg hip hop"
+        ]
+    },
+    {
+        "id": "6k8mwkKJKKjBILo7ypBspl",
+        "name": "Ana Mena",
+        "genres": [
+            "latin pop",
+            "spanish pop"
+        ]
+    },
+    {
+        "id": "0EFisYRi20PTADoJrifHrz",
+        "name": "Jhay Cortez",
+        "genres": [
+            "latin",
+            "reggaeton",
+            "trap latino"
+        ]
+    },
+    {
+        "id": "5BcAKTbp20cv7tC5VqPFoC",
+        "name": "Macklemore & Ryan Lewis",
+        "genres": [
+            "dance pop",
+            "pop",
+            "pop rap",
+            "seattle hip hop"
+        ]
+    },
+    {
+        "id": "5KNNVgR6LBIABRIomyCwKJ",
+        "name": "Dermot Kennedy",
+        "genres": [
+            "folk-pop",
+            "irish pop",
+            "pop",
+            "uk pop"
+        ]
+    },
+    {
+        "id": "5eioJDe26lOqkAMbuhzZYs",
+        "name": "Gzuz",
+        "genres": [
+            "deep german hip hop",
+            "german hip hop",
+            "hamburg hip hop"
+        ]
+    },
+    {
+        "id": "46pWGuE3dSwY3bMMXGBvVS",
+        "name": "Rema",
+        "genres": [
+            "nigerian pop"
+        ]
+    },
+    {
+        "id": "0ZHPrnImGh4re3TbSNkoZl",
+        "name": "Beret",
+        "genres": [
+            "latin pop",
+            "spanish hip hop"
+        ]
+    },
+    {
+        "id": "4V8LLVI7PbaPR0K2TGSxFF",
+        "name": "Tyler, The Creator",
+        "genres": [
+            "hip hop",
+            "rap"
+        ]
+    },
+    {
+        "id": "7c53ZFyajVMTo08HmvoB6b",
+        "name": "zzoilo",
+        "genres": []
+    },
+    {
+        "id": "0NGAZxHanS9e0iNHpR8f2W",
+        "name": "Alok",
+        "genres": [
+            "electro house",
+            "pop nacional",
+            "slap house"
+        ]
+    },
+    {
+        "id": "5H1nN1SzW0qNeUEZvuXjAj",
+        "name": "Danny Ocean",
+        "genres": [
+            "latin",
+            "latin pop",
+            "pop venezolano",
+            "reggaeton"
+        ]
+    },
+    {
+        "id": "3tlXnStJ1fFhdScmQeLpuG",
+        "name": "Brent Faiyaz",
+        "genres": [
+            "dmv rap",
+            "pop",
+            "r&b",
+            "rap"
+        ]
+    },
+    {
+        "id": "34LetYSjEuG2fBb4Z8PwPg",
+        "name": "Pashanim",
+        "genres": [
+            "german alternative rap",
+            "german drill",
+            "german hip hop"
+        ]
+    },
+    {
+        "id": "2wY79sveU1sp5g7SokKOiI",
+        "name": "Sam Smith",
+        "genres": [
+            "dance pop",
+            "pop",
+            "uk pop"
+        ]
+    },
+    {
+        "id": "2ctUnxn4qlNB9rYMyKJuMf",
+        "name": "Ikke H\u00fcftgold",
+        "genres": [
+            "discofox",
+            "oktoberfest",
+            "partyschlager"
+        ]
+    },
+    {
+        "id": "3Isy6kedDrgPYoTS1dazA9",
+        "name": "Sean Paul",
+        "genres": [
+            "dance pop",
+            "dancehall",
+            "pop rap"
+        ]
+    },
+    {
+        "id": "360IAlyVv4PCEVjgyMZrxK",
+        "name": "Miguel",
+        "genres": [
+            "dance pop",
+            "pop",
+            "r&b",
+            "urban contemporary"
+        ]
+    },
+    {
+        "id": "5ZY4M2aGiTaZQEP6HfqeJc",
+        "name": "Montez",
+        "genres": [
+            "german hip hop",
+            "german pop"
+        ]
+    },
+    {
+        "id": "7uK2QScoOUkqq8tvtvBIL7",
+        "name": "Endzone",
+        "genres": [
+            "german hip hop",
+            "german trap"
+        ]
+    },
+    {
+        "id": "2qk9voo8llSGYcZ6xrBzKx",
+        "name": "Kings of Leon",
+        "genres": [
+            "modern rock",
+            "rock"
+        ]
+    },
+    {
+        "id": "5MynxBz4ZMqvUzpcxTZl4C",
+        "name": "Therapie TAXI",
+        "genres": [
+            "french indie pop",
+            "french pop",
+            "new french touch"
+        ]
+    },
+    {
+        "id": "31W5EY0aAly4Qieq6OFu6I",
+        "name": "A Boogie Wit da Hoodie",
+        "genres": [
+            "melodic rap",
+            "rap",
+            "trap"
+        ]
+    },
+    {
+        "id": "6M2wZ9GZgrQXHCFfjv46we",
+        "name": "Dua Lipa",
+        "genres": [
+            "dance pop",
+            "pop",
+            "uk pop"
+        ]
+    },
+    {
+        "id": "2txHhyCwHjUEpJjWrEyqyX",
+        "name": "Tom Odell",
+        "genres": [
+            "chill pop",
+            "pop"
+        ]
+    },
+    {
+        "id": "790FomKkXshlbRYZFtlgla",
+        "name": "KAROL G",
+        "genres": [
+            "latin",
+            "reggaeton",
+            "reggaeton colombiano",
+            "trap latino"
+        ]
+    },
+    {
+        "id": "3Mn6d673ieRza7uw6zY2Zv",
+        "name": "Hava",
+        "genres": [
+            "frauenrap",
+            "german hip hop"
+        ]
+    },
+    {
+        "id": "4yvcSjfu4PC0CYQyLy4wSq",
+        "name": "Glass Animals",
+        "genres": [
+            "gauze pop",
+            "indietronica",
+            "shiver pop"
+        ]
+    },
+    {
+        "id": "0AqlFI0tz2DsEoJlKSIiT9",
+        "name": "Emilia",
+        "genres": []
+    },
+    {
+        "id": "6zlR5ttMfMNmwf2lecU9Cc",
+        "name": "Sam Fender",
+        "genres": [
+            "modern alternative rock",
+            "modern rock",
+            "north east england indie",
+            "rock"
+        ]
+    },
+    {
+        "id": "7Ln80lUS6He07XvHI8qqHH",
+        "name": "Arctic Monkeys",
+        "genres": [
+            "garage rock",
+            "permanent wave",
+            "rock",
+            "sheffield indie"
+        ]
+    },
+    {
+        "id": "7dGJo4pcD2V6oG8kP0tJRR",
+        "name": "Eminem",
+        "genres": [
+            "detroit hip hop",
+            "hip hop",
+            "rap"
+        ]
+    },
+    {
+        "id": "3PhoLpVuITZKcymswpck5b",
+        "name": "Elton John",
+        "genres": [
+            "glam rock",
+            "mellow gold",
+            "piano rock"
+        ]
+    },
+    {
+        "id": "7CajNmpbOovFoOoasH2HaY",
+        "name": "Calvin Harris",
+        "genres": [
+            "dance pop",
+            "edm",
+            "electro house",
+            "house"
+        ]
+    },
+    {
+        "id": "2DaxqgrOhkeH0fpeiQq2f4",
+        "name": "Oasis",
+        "genres": [
+            "beatlesque",
+            "britpop",
+            "madchester",
+            "permanent wave"
+        ]
+    },
+    {
+        "id": "66CXWjxzNUsdJxJ2JdwvnR",
+        "name": "Ariana Grande",
+        "genres": [
+            "dance pop",
+            "pop"
+        ]
+    },
+    {
+        "id": "5hREZP0zTQbTLkZ2M8RS4v",
+        "name": "Djadja & Dinaz",
+        "genres": [
+            "french hip hop",
+            "pop urbaine",
+            "rap conscient",
+            "rap francais"
+        ]
+    },
+    {
+        "id": "3TVXtAsR1Inumwj472S9r4",
+        "name": "Drake",
+        "genres": [
+            "canadian hip hop",
+            "canadian pop",
+            "hip hop",
+            "rap"
+        ]
+    },
+    {
+        "id": "57vWImR43h4CaDao012Ofp",
+        "name": "Steve Lacy",
+        "genres": [
+            "afrofuturism"
+        ]
+    },
+    {
+        "id": "7hIqJfRYGBWWT1Qxu6Cpd2",
+        "name": "Andy Rivera",
+        "genres": [
+            "latin",
+            "latin hip hop",
+            "latin pop",
+            "reggaeton"
+        ]
+    },
+    {
+        "id": "3Mcii5XWf6E0lrY3Uky4cA",
+        "name": "Ice Cube",
+        "genres": [
+            "conscious hip hop",
+            "g funk",
+            "gangster rap",
+            "hip hop"
+        ]
+    },
+    {
+        "id": "1bAftSH8umNcGZ0uyV7LMg",
+        "name": "Duki",
+        "genres": [
+            "argentine hip hop",
+            "trap argentino",
+            "trap latino",
+            "trap triste"
+        ]
+    },
+    {
+        "id": "6ARKr2ZoLf9TDoQiZarJMt",
+        "name": "makko",
+        "genres": [
+            "german hip hop",
+            "german trap"
+        ]
+    },
+    {
+        "id": "7nDsS0l5ZAzMedVRKPP8F1",
+        "name": "Ella Henderson",
+        "genres": [
+            "dance pop",
+            "pop",
+            "pop dance",
+            "post-teen pop"
+        ]
+    },
+    {
+        "id": "7vXDAI8JwjW531ouMGbfcp",
+        "name": "TINI",
+        "genres": [
+            "latin pop",
+            "pop argentino"
+        ]
+    },
+    {
+        "id": "2tIP7SsRs7vjIcLrU85W8J",
+        "name": "The Kid LAROI",
+        "genres": [
+            "australian hip hop"
+        ]
+    },
+    {
+        "id": "1bpI6QDUqmfKmV0Tlhj0Jm",
+        "name": "Pajel",
+        "genres": [
+            "german hip hop"
+        ]
+    },
+    {
+        "id": "2FXC3k01G6Gw61bmprjgqS",
+        "name": "Hozier",
+        "genres": [
+            "irish singer-songwriter",
+            "pop"
+        ]
+    },
+    {
+        "id": "2f7f3AmL16mmiAmYnxmmfx",
+        "name": "Provinz",
+        "genres": [
+            "german indie folk",
+            "german pop"
+        ]
+    },
+    {
+        "id": "7f5Zgnp2spUuuzKplmRkt7",
+        "name": "Lost Frequencies",
+        "genres": [
+            "belgian edm",
+            "edm",
+            "pop",
+            "pop dance"
+        ]
+    },
+    {
+        "id": "2R21vXR83lH98kGeO99Y66",
+        "name": "Anuel AA",
+        "genres": [
+            "latin",
+            "reggaeton",
+            "reggaeton flow",
+            "trap boricua"
+        ]
+    },
+    {
+        "id": "6qqNVTkY8uBg9cP3Jd7DAH",
+        "name": "Billie Eilish",
+        "genres": [
+            "art pop",
+            "electropop",
+            "pop"
+        ]
+    },
+    {
+        "id": "0GOx72r5AAEKRGQFn3xqXK",
+        "name": "GIMS",
+        "genres": [
+            "francoton",
+            "french hip hop",
+            "french pop",
+            "rap conscient"
+        ]
+    },
+    {
+        "id": "1QPdp5duV6lV4XINCzjwQ2",
+        "name": "Dinos",
+        "genres": [
+            "french hip hop",
+            "pop urbaine",
+            "rap francais"
+        ]
+    },
+    {
+        "id": "6TLwD7HPWuiOzvXEa3oCNe",
+        "name": "Oliver Tree",
+        "genres": [
+            "alternative hip hop"
+        ]
+    },
+    {
+        "id": "4lR4w01uPOblBqpIAzuCzL",
+        "name": "Noah",
+        "genres": [
+            "german hip hop"
+        ]
+    },
+    {
+        "id": "13ubrt8QOOCPljQ2FL1Kca",
+        "name": "A$AP Rocky",
+        "genres": [
+            "east coast hip hop",
+            "hip hop",
+            "rap",
+            "trap"
+        ]
+    },
+    {
+        "id": "7oWrEQO1d3klp0Qrfh7a5h",
+        "name": "badm\u00f3mzjay",
+        "genres": [
+            "frauenrap",
+            "german drill",
+            "german hip hop"
+        ]
+    },
+    {
+        "id": "5pVRwX5ZQR7hfJ18w8ZYkl",
+        "name": "Ufo361",
+        "genres": [
+            "german cloud rap",
+            "german hip hop"
+        ]
+    },
+    {
+        "id": "4lDiJcOJ2GLCK6p9q5BgfK",
+        "name": "Kontra K",
+        "genres": [
+            "christlicher rap",
+            "german hip hop"
+        ]
+    },
+    {
+        "id": "3tVQdUvClmAT7URs9V3rsp",
+        "name": "WizKid",
+        "genres": [
+            "afro dancehall",
+            "afropop",
+            "azonto",
+            "nigerian hip hop"
+        ]
+    },
+    {
+        "id": "4WZGDpNwrC0vNQyl9QzF7d",
+        "name": "Capital Bra",
+        "genres": [
+            "german hip hop"
+        ]
+    },
+    {
+        "id": "37czgDRfGMvgRiUKHvnnhj",
+        "name": "\u00d6wnboss",
+        "genres": [
+            "brazilian edm"
+        ]
+    },
+    {
+        "id": "5Y5EJ20jDQkkB213zwuDXR",
+        "name": "menace Santana",
+        "genres": [
+            "rap francais"
+        ]
+    },
+    {
+        "id": "3DCWeG2J1fZeu0Oe6i5Q6m",
+        "name": "PLK",
+        "genres": [
+            "french hip hop",
+            "pop urbaine",
+            "rap conscient",
+            "rap francais"
+        ]
+    },
+    {
+        "id": "0ErzCpIMyLcjPiwT4elrtZ",
+        "name": "NLE Choppa",
+        "genres": [
+            "memphis hip hop"
+        ]
+    },
+    {
+        "id": "4gzpq5DPGxSnKTe4SA8HAU",
+        "name": "Coldplay",
+        "genres": [
+            "permanent wave",
+            "pop"
+        ]
+    },
+    {
+        "id": "4PFgfReja3r59JaekHpeuf",
+        "name": "El Taiger",
+        "genres": [
+            "cubaton"
+        ]
+    },
+    {
+        "id": "5wyWp867LWGjFmYZXVSFnZ",
+        "name": "MERO",
+        "genres": [
+            "german hip hop"
+        ]
+    },
+    {
+        "id": "5SXuuuRpukkTvsLuUknva1",
+        "name": "Baby Keem",
+        "genres": [
+            "hip hop",
+            "rap"
+        ]
+    },
+    {
+        "id": "4FpJcNgOvIpSBeJgRg3OfN",
+        "name": "Orelsan",
+        "genres": [
+            "french hip hop",
+            "old school rap francais",
+            "rap conscient"
+        ]
+    },
+    {
+        "id": "0du5cEVh5yTK9QJze8zA0C",
+        "name": "Bruno Mars",
+        "genres": [
+            "dance pop",
+            "pop"
+        ]
+    },
+    {
+        "id": "5YGY8feqx7naU7z4HrwZM6",
+        "name": "Miley Cyrus",
+        "genres": [
+            "dance pop",
+            "pop",
+            "post-teen pop"
+        ]
+    },
+    {
+        "id": "4MCBfE4596Uoi2O4DtmEMz",
+        "name": "Juice WRLD",
+        "genres": [
+            "chicago rap",
+            "melodic rap"
+        ]
+    },
+    {
+        "id": "2EFpb61Lpi0l5ldOiqbZkK",
+        "name": "Landy",
+        "genres": [
+            "francoton",
+            "french hip hop",
+            "pop urbaine",
+            "rap francais"
+        ]
+    },
+    {
+        "id": "2o5jDhtHVPhrJdv3cEQ99Z",
+        "name": "Ti\u00ebsto",
+        "genres": [
+            "big room",
+            "brostep",
+            "dance pop",
+            "dutch edm"
+        ]
+    },
+    {
+        "id": "67MNhiAICFY6Pwc2YxCO0K",
+        "name": "Elley Duh\u00e9",
+        "genres": [
+            "alt z",
+            "electropop",
+            "pop"
+        ]
+    },
+    {
+        "id": "2UwqpfQtNuhBwviIC0f2ie",
+        "name": "Damso",
+        "genres": [
+            "belgian hip hop",
+            "french hip hop",
+            "pop urbaine",
+            "rap belge"
+        ]
+    },
+    {
+        "id": "0tmwSHipWxN12fsoLcFU3B",
+        "name": "Manuel Turizo",
+        "genres": [
+            "colombian pop",
+            "latin",
+            "latin pop",
+            "reggaeton"
+        ]
+    },
+    {
+        "id": "6olE6TJLqED3rqDCT0FyPh",
+        "name": "Nirvana",
+        "genres": [
+            "alternative rock",
+            "grunge",
+            "permanent wave",
+            "rock"
+        ]
+    },
+    {
+        "id": "1uNFoZAHBGtllmzznpCI3s",
+        "name": "Justin Bieber",
+        "genres": [
+            "canadian pop",
+            "pop"
+        ]
+    },
+    {
+        "id": "3mmI5HKArDwgggj4j0aJyC",
+        "name": "BHZ",
+        "genres": [
+            "german alternative rap",
+            "german hip hop",
+            "german trap"
+        ]
+    },
+    {
+        "id": "6eUKZXaKkcviH0Ku9w2n3V",
+        "name": "Ed Sheeran",
+        "genres": [
+            "pop",
+            "uk pop"
+        ]
+    },
+    {
+        "id": "3IW7ScrzXmPvZhB27hmfgy",
+        "name": "Jul",
+        "genres": [
+            "francoton",
+            "rap marseille"
+        ]
+    },
+    {
+        "id": "4Yttlv9ndGjCDCVLqM7ACq",
+        "name": "Sido",
+        "genres": [
+            "german hip hop"
+        ]
+    },
+    {
+        "id": "6HCBnyTBSLdb3TFn2ayulY",
+        "name": "Leto",
+        "genres": [
+            "french hip hop",
+            "pop urbaine",
+            "rap francais"
+        ]
+    },
+    {
+        "id": "00FQb4jTyendYWaN8pK0wa",
+        "name": "Lana Del Rey",
+        "genres": [
+            "art pop",
+            "pop"
+        ]
+    },
+    {
+        "id": "1Cs0zKBU1kc0i8ypK3B9ai",
+        "name": "David Guetta",
+        "genres": [
+            "big room",
+            "dance pop",
+            "edm",
+            "pop"
+        ]
+    },
+    {
+        "id": "19u3RGWKsjmbg9eI6zAiNp",
+        "name": "13 Organis\u00e9",
+        "genres": [
+            "french hip hop",
+            "pop urbaine"
+        ]
+    },
+    {
+        "id": "14zUHaJZo1mnYtn6IBRaRP",
+        "name": "Justin Quiles",
+        "genres": [
+            "latin",
+            "reggaeton",
+            "trap latino"
+        ]
+    },
+    {
+        "id": "5tHiL8SKSaZGMBUPIiSmX4",
+        "name": "KitschKrieg",
+        "genres": [
+            "german hip hop",
+            "hamburg hip hop"
+        ]
+    },
+    {
+        "id": "7GDrXlpRrdG29o4n0pNR5D",
+        "name": "Bru-C",
+        "genres": [
+            "nottingham hip hop"
+        ]
+    },
+    {
+        "id": "3CJKkU0XuElRT1z8rEtIYg",
+        "name": "Luciano",
+        "genres": [
+            "german drill",
+            "german hip hop"
+        ]
+    },
+    {
+        "id": "5K4W6rqBFWDnAN6FQUkS6x",
+        "name": "Kanye West",
+        "genres": [
+            "chicago rap",
+            "rap"
+        ]
+    },
+    {
+        "id": "1QAJqy2dA3ihHBFIHRphZj",
+        "name": "Cigarettes After Sex",
+        "genres": [
+            "ambient pop",
+            "dream pop",
+            "el paso indie",
+            "shoegaze"
+        ]
+    },
+    {
+        "id": "66ihevNkSYNzRAl44dx6jJ",
+        "name": "Carin Leon",
+        "genres": [
+            "corrido",
+            "nuevo regional mexicano",
+            "regional mexican",
+            "sierreno"
+        ]
+    },
+    {
+        "id": "0U7ti3mwGrBNlKNE4YlbfT",
+        "name": "Sierra Kidd",
+        "genres": [
+            "deep german hip hop",
+            "german cloud rap",
+            "german hip hop",
+            "german trap"
+        ]
+    },
+    {
+        "id": "4VMYDCV2IEDYJArk749S6m",
+        "name": "Daddy Yankee",
+        "genres": [
+            "latin",
+            "latin hip hop",
+            "reggaeton",
+            "trap latino"
+        ]
+    },
+    {
+        "id": "2cPqdH7XMvwaBJEVjheH8g",
+        "name": "Jay Wheeler",
+        "genres": [
+            "latin",
+            "reggaeton",
+            "trap latino"
+        ]
+    },
+    {
+        "id": "3JhNCzhSMTxs9WLGJJxWOY",
+        "name": "Macklemore",
+        "genres": [
+            "pop rap",
+            "seattle hip hop"
+        ]
+    },
+    {
+        "id": "5bv5RplEOwdCvhq0EILh9E",
+        "name": "Lucenzo",
+        "genres": [
+            "francoton",
+            "french pop",
+            "reggaeton"
+        ]
+    },
+    {
+        "id": "0adJG3bdFTHCkTY28NkY4u",
+        "name": "Bejo",
+        "genres": [
+            "rap canario",
+            "urbano espanol"
+        ]
+    },
+    {
+        "id": "5KKpBU5eC2tJDzf0wmlRp2",
+        "name": "RAYE",
+        "genres": [
+            "dance pop",
+            "edm",
+            "house",
+            "pop"
+        ]
+    },
+    {
+        "id": "1GKIlPFdcewHtpDVCQ8zmJ",
+        "name": "Brray",
+        "genres": [
+            "perreo",
+            "reggaeton",
+            "reggaeton flow",
+            "trap latino"
+        ]
+    },
+    {
+        "id": "4myTppRgh0rojLxx8RycOp",
+        "name": "Ryan Lewis",
+        "genres": []
+    },
+    {
+        "id": "3q7HBObVc0L8jNeTe5Gofh",
+        "name": "50 Cent",
+        "genres": [
+            "east coast hip hop",
+            "gangster rap",
+            "hip hop",
+            "pop rap"
+        ]
+    },
+    {
+        "id": "55Aa2cqylxrFIXC767Z865",
+        "name": "Lil Wayne",
+        "genres": [
+            "hip hop",
+            "new orleans rap",
+            "pop rap",
+            "rap"
+        ]
+    },
+    {
+        "id": "08Ld63UgKrJ0nZnCkzHtzc",
+        "name": "Project Pat",
+        "genres": [
+            "crunk",
+            "dirty south rap",
+            "gangster rap",
+            "memphis hip hop"
+        ]
+    },
+    {
+        "id": "53EHeXzGs4HheTCTnwfPEr",
+        "name": "SFR",
+        "genres": []
+    },
+    {
+        "id": "1OJvqVmekd5OPxlTeHmlBl",
+        "name": "Ion Miles",
+        "genres": [
+            "german cloud rap",
+            "german trap"
+        ]
+    },
+    {
+        "id": "5szJHKg5xeUlQ9pTqzdpic",
+        "name": "Taiu",
+        "genres": []
+    },
+    {
+        "id": "6zrOXBaNn0DqJeXxgC2eyH",
+        "name": "Houari",
+        "genres": [
+            "pop urbaine"
+        ]
+    },
+    {
+        "id": "7LQLsKs1Qulq0BxYdhRnBU",
+        "name": "Azad",
+        "genres": [
+            "deep german hip hop",
+            "german drill",
+            "german hip hop",
+            "german underground rap"
+        ]
+    },
+    {
+        "id": "4NSzuIc0eGOftqr0tEOhJk",
+        "name": "ClockClock",
+        "genres": []
+    },
+    {
+        "id": "7FXX45sHqoQoCwqtG0ZV8H",
+        "name": "Solda",
+        "genres": []
+    },
+    {
+        "id": "0b62itBWBdLgiecXjXCqKC",
+        "name": "Maxwell",
+        "genres": [
+            "german hip hop"
+        ]
+    },
+    {
+        "id": "5IbUz6BcOu6IVY512oxavP",
+        "name": "Ni\u00f1o de Elche",
+        "genres": [
+            "spanish pop"
+        ]
+    },
+    {
+        "id": "1HBjj22wzbscIZ9sEb5dyf",
+        "name": "Jonas Blue",
+        "genres": [
+            "dance pop",
+            "edm",
+            "pop",
+            "pop dance"
+        ]
+    },
+    {
+        "id": "3vUMXQ9kPnZAQkMkZZ7Hfh",
+        "name": "Tiakola",
+        "genres": [
+            "french hip hop",
+            "pop urbaine",
+            "rap francais"
+        ]
+    },
+    {
+        "id": "3nFkdlSjzX9mRTtwJOzDYB",
+        "name": "JAY-Z",
+        "genres": [
+            "east coast hip hop",
+            "hip hop",
+            "rap"
+        ]
+    },
+    {
+        "id": "2kXKa3aAFngGz2P4GjG5w2",
+        "name": "SCH",
+        "genres": [
+            "french hip hop",
+            "pop urbaine",
+            "rap marseille"
+        ]
+    },
+    {
+        "id": "36caCzfSrrL7a8Mvd1SuRr",
+        "name": "Chapo102",
+        "genres": [
+            "german hip hop",
+            "german trap"
+        ]
+    },
+    {
+        "id": "2jku7tDXc6XoB6MO2hFuqg",
+        "name": "Tory Lanez",
+        "genres": [
+            "canadian hip hop",
+            "canadian trap",
+            "melodic rap",
+            "pop rap"
+        ]
+    },
+    {
+        "id": "1zNqQNIdeOUZHb8zbZRFMX",
+        "name": "Swae Lee",
+        "genres": [
+            "melodic rap",
+            "trap"
+        ]
+    },
+    {
+        "id": "42ppAzaKW3DW3bYRmxd1Dw",
+        "name": "DJ Conds",
+        "genres": [
+            "cubaton"
+        ]
+    },
+    {
+        "id": "5UN0rzL594mWY2RbOtZqIN",
+        "name": "Ptazeta",
+        "genres": [
+            "rap canario",
+            "urbano espanol"
+        ]
+    },
+    {
+        "id": "1wAtSe79kItIb9nf5EhI2Q",
+        "name": "Niro",
+        "genres": [
+            "francoton",
+            "french hip hop",
+            "pop urbaine",
+            "rap francais"
+        ]
+    },
+    {
+        "id": "0EmeFodog0BfCgMzAIvKQp",
+        "name": "Shakira",
+        "genres": [
+            "colombian pop",
+            "dance pop",
+            "latin",
+            "latin pop"
+        ]
+    },
+    {
+        "id": "2ydZrTy8U3kOMOzx20s3dg",
+        "name": "DJ Nelson",
+        "genres": [
+            "latin",
+            "latin hip hop",
+            "reggaeton",
+            "reggaeton flow"
+        ]
+    },
+    {
+        "id": "2mpeljBig2IXLXRAFO9AAs",
+        "name": "Dido",
+        "genres": [
+            "new wave pop",
+            "pop rock"
+        ]
+    },
+    {
+        "id": "2SrSdSvpminqmStGELCSNd",
+        "name": "Stormzy",
+        "genres": [
+            "grime",
+            "uk hip hop"
+        ]
+    },
+    {
+        "id": "4Dokdwa3WB7ilQ2c2qvIBL",
+        "name": "Bugzy Malone",
+        "genres": [
+            "grime",
+            "manchester hip hop",
+            "uk hip hop"
+        ]
+    },
+    {
+        "id": "2WmxTCUVOyGsqn4GA7VxuC",
+        "name": "Gustav",
+        "genres": []
+    },
+    {
+        "id": "3l9G1G9MxH6DaRhwLklaf5",
+        "name": "Oscar Maydon",
+        "genres": [
+            "corrido",
+            "corridos tumbados"
+        ]
+    },
+    {
+        "id": "5Y5TRrQiqgUO4S36tzjIRZ",
+        "name": "Timbaland",
+        "genres": [
+            "dance pop",
+            "hip hop",
+            "hip pop",
+            "pop"
+        ]
+    },
+    {
+        "id": "6n28c9qs9hNGriNa72b26u",
+        "name": "PNAU",
+        "genres": [
+            "alternative dance",
+            "aussietronica",
+            "australian dance",
+            "australian electropop"
+        ]
+    },
+    {
+        "id": "3wcj11K77LjEY1PkEazffa",
+        "name": "Burna Boy",
+        "genres": [
+            "afro dancehall",
+            "dancehall",
+            "nigerian hip hop",
+            "nigerian pop"
+        ]
+    },
+    {
+        "id": "0rjms710nwQTdrQheXHJfz",
+        "name": "Standly",
+        "genres": []
+    },
+    {
+        "id": "7xtnpHS34mLlxGZDVUBHSU",
+        "name": "La H\u00fangara",
+        "genres": [
+            "pop flamenco",
+            "rumba",
+            "spanish pop",
+            "spanish pop rock"
+        ]
+    },
+    {
+        "id": "0VRj0yCOv2FXJNP47XQnx5",
+        "name": "Quavo",
+        "genres": [
+            "atl hip hop",
+            "hip hop",
+            "melodic rap",
+            "pop rap"
+        ]
+    },
+    {
+        "id": "2T1aUibqR2QC2sINIDQOAK",
+        "name": "Mambo Kingz",
+        "genres": [
+            "reggaeton flow"
+        ]
+    },
+    {
+        "id": "3NPpFNZtSTHheNBaWC82rB",
+        "name": "X Ambassadors",
+        "genres": [
+            "modern alternative rock",
+            "modern rock",
+            "pop",
+            "pop rap"
+        ]
+    },
+    {
+        "id": "4V8Sr092TqfHkfAA5fXXqG",
+        "name": "Luis Fonsi",
+        "genres": [
+            "latin",
+            "latin pop",
+            "puerto rican pop"
+        ]
+    },
+    {
+        "id": "1URnnhqYAYcrqrcwql10ft",
+        "name": "21 Savage",
+        "genres": [
+            "atl hip hop",
+            "rap",
+            "trap"
+        ]
+    },
+    {
+        "id": "687cZJR45JO7jhk1LHIbgq",
+        "name": "Tems",
+        "genres": [
+            "afro r&b",
+            "alte",
+            "nigerian pop",
+            "r&b"
+        ]
+    },
+    {
+        "id": "4bWHA8fMNjzfGPQqnh5D6y",
+        "name": "Recycled J",
+        "genres": [
+            "rap espanol",
+            "urbano espanol"
+        ]
+    },
+    {
+        "id": "5RaQ9nmVGoTye2SI76x3yw",
+        "name": "Kofs",
+        "genres": [
+            "francoton",
+            "french hip hop",
+            "pop urbaine",
+            "rap francais"
+        ]
+    },
+    {
+        "id": "1Ts9of7VPZElwPQnqnDSfW",
+        "name": "Lyanno",
+        "genres": [
+            "latin",
+            "reggaeton",
+            "reggaeton flow",
+            "trap boricua"
+        ]
+    },
+    {
+        "id": "0uxYECT7XqHNccQAg5Uhe4",
+        "name": "Nico Valdi",
+        "genres": []
+    },
+    {
+        "id": "28ExwzUQsvgJooOI0X1mr3",
+        "name": "Jay Rock",
+        "genres": [
+            "conscious hip hop",
+            "gangster rap",
+            "hip hop",
+            "pop rap"
+        ]
+    },
+    {
+        "id": "5iIl7sknJm4dw34xfsL667",
+        "name": "skrilla",
+        "genres": []
+    },
+    {
+        "id": "4tZwfgrHOc3mvqYlEYSvVi",
+        "name": "Daft Punk",
+        "genres": [
+            "electro",
+            "filter house"
+        ]
+    },
+    {
+        "id": "31IVfzTQ5bAPL8XMrO6dVx",
+        "name": "Axolotes Mexicanos",
+        "genres": [
+            "spanish noise pop"
+        ]
+    },
+    {
+        "id": "60XHOAhvEBiV6BGBOv8ClM",
+        "name": "La Joaqui",
+        "genres": [
+            "argentine hip hop",
+            "rap latina"
+        ]
+    },
+    {
+        "id": "2NZD6Gqfk60GEcAAnJKVsR",
+        "name": "Stars Music Chile",
+        "genres": []
+    },
+    {
+        "id": "5LeiVcEnsZcwc133TUhJNW",
+        "name": "Belinda",
+        "genres": [
+            "dance pop",
+            "latin",
+            "latin arena pop",
+            "latin pop"
+        ]
+    },
+    {
+        "id": "12vb80Km0Ew53ABfJOepVz",
+        "name": "\u00d1engo Flow",
+        "genres": [
+            "latin",
+            "latin hip hop",
+            "reggaeton",
+            "reggaeton flow"
+        ]
+    },
+    {
+        "id": "00XhexlJEXQstHimpZN910",
+        "name": "Brytiago",
+        "genres": [
+            "latin",
+            "latin hip hop",
+            "reggaeton",
+            "reggaeton flow"
+        ]
+    },
+    {
+        "id": "5gs4Sm2WQUkcGeikMcVHbh",
+        "name": "Hamza",
+        "genres": [
+            "belgian hip hop",
+            "french hip hop",
+            "pop urbaine",
+            "rap belge"
+        ]
+    },
+    {
+        "id": "1Hsdzj7Dlq2I7tHP7501T4",
+        "name": "Niall Horan",
+        "genres": [
+            "dance pop",
+            "pop",
+            "post-teen pop"
+        ]
+    },
+    {
+        "id": "4DdkRBBYG6Yk9Ka8tdJ9BW",
+        "name": "Offset",
+        "genres": [
+            "atl hip hop",
+            "hip hop",
+            "pop rap",
+            "rap"
+        ]
+    },
+    {
+        "id": "2IoSLl3tqYMq9DzR0d6NJN",
+        "name": "Elams",
+        "genres": [
+            "francoton",
+            "french hip hop",
+            "pop urbaine",
+            "rap francais"
+        ]
+    },
+    {
+        "id": "1wZtkThiXbVNtj6hee6dz9",
+        "name": "Wisin & Yandel",
+        "genres": [
+            "electro latino",
+            "latin",
+            "latin hip hop",
+            "reggaeton"
+        ]
+    },
+    {
+        "id": "2LhsePRtgCo4THVKULQBL7",
+        "name": "L.V.",
+        "genres": []
+    },
+    {
+        "id": "0aOIluXr131XqrXFwFCFGT",
+        "name": "Sevek",
+        "genres": []
+    },
+    {
+        "id": "1Oa0bMld0A3u5OTYfMzp5h",
+        "name": "Nate Dogg",
+        "genres": [
+            "g funk",
+            "gangster rap",
+            "hip hop",
+            "pop rap"
+        ]
+    },
+    {
+        "id": "77DAFfvm3O9zT5dIoG0eIO",
+        "name": "Kyla",
+        "genres": [
+            "uk funky"
+        ]
+    },
+    {
+        "id": "64M6ah0SkkRsnPGtGiRAbb",
+        "name": "Bebe Rexha",
+        "genres": [
+            "dance pop",
+            "edm",
+            "electropop",
+            "pop"
+        ]
+    },
+    {
+        "id": "64aJYyrXljOodnUG6jvhRD",
+        "name": "DJ Luian",
+        "genres": [
+            "latin",
+            "latin hip hop",
+            "reggaeton",
+            "reggaeton flow"
+        ]
+    },
+    {
+        "id": "37230BxxYs9ksS7OkZw3IU",
+        "name": "Chencho Corleone",
+        "genres": [
+            "reggaeton flow"
+        ]
+    },
+    {
+        "id": "7EQ0qTo7fWT7DPxmxtSYEc",
+        "name": "Bastille",
+        "genres": [
+            "metropopolis",
+            "modern rock",
+            "pop",
+            "pop rock"
+        ]
+    },
+    {
+        "id": "2p1fiYHYiXz9qi0JJyxBzN",
+        "name": "Skepta",
+        "genres": [
+            "birmingham grime",
+            "grime",
+            "instrumental grime",
+            "rap"
+        ]
+    },
+    {
+        "id": "2f6TzIGIIxEuwp6o7kEbhy",
+        "name": "Pablo Mas",
+        "genres": []
+    },
+    {
+        "id": "2YVF0Ou5zIc4mpgtLIlGN0",
+        "name": "Robert Miles",
+        "genres": [
+            "dream trance",
+            "eurodance",
+            "trance"
+        ]
+    },
+    {
+        "id": "2h93pZq0e7k5yf4dywlkpM",
+        "name": "Frank Ocean",
+        "genres": [
+            "alternative r&b",
+            "hip hop",
+            "lgbtq+ hip hop",
+            "neo soul"
+        ]
+    },
+    {
+        "id": "3J1MhhyXLJRNRZVrx11Lbf",
+        "name": "Cyril Kamer",
+        "genres": [
+            "drill espanol",
+            "trap latino",
+            "urbano espanol"
+        ]
+    },
+    {
+        "id": "4bthk9UfsYUYdcFyqxmSUU",
+        "name": "Tears For Fears",
+        "genres": [
+            "new romantic",
+            "new wave",
+            "new wave pop",
+            "permanent wave"
+        ]
+    },
+    {
+        "id": "7jy3rLJdDQY21OgRLCZ9sD",
+        "name": "Foo Fighters",
+        "genres": [
+            "alternative metal",
+            "alternative rock",
+            "modern rock",
+            "permanent wave"
+        ]
+    },
+    {
+        "id": "3L774tiJRvPmAS90pOLB44",
+        "name": "Rsko",
+        "genres": [
+            "pop urbaine",
+            "rap francais"
+        ]
+    },
+    {
+        "id": "3NH8t45zOTqzlZgBvZRjvB",
+        "name": "PNL",
+        "genres": [
+            "french hip hop",
+            "pop urbaine"
+        ]
+    },
+    {
+        "id": "56n1NeXsTOOxjX3Z4lVMTJ",
+        "name": "SFDK",
+        "genres": [
+            "rap politico",
+            "rap underground espanol",
+            "spanish hip hop"
+        ]
+    },
+    {
+        "id": "4lHAjTCvXGu8QIM3cEe93m",
+        "name": "Maka",
+        "genres": [
+            "flamenco urbano",
+            "urbano espanol"
+        ]
+    },
+    {
+        "id": "5fmYDIdgEkSgLdL6esxgfp",
+        "name": "Bel\u00e9n Aguilera",
+        "genres": [
+            "latin viral pop",
+            "spanish pop"
+        ]
+    },
+    {
+        "id": "6ltzsmQQbmdoHHbLZ4ZN25",
+        "name": "Lord Huron",
+        "genres": [
+            "indie folk",
+            "stomp and holler"
+        ]
+    },
+    {
+        "id": "5ZqnEfVdEGmoPxtELhN7ai",
+        "name": "Estopa",
+        "genres": [
+            "rumba",
+            "spanish pop"
+        ]
+    },
+    {
+        "id": "2ptKt4yP4mYRZmvi09JYyi",
+        "name": "Timal",
+        "genres": [
+            "francoton",
+            "french hip hop",
+            "pop urbaine",
+            "rap francais"
+        ]
+    },
+    {
+        "id": "7IlRNXHjoOCgEAWN5qYksg",
+        "name": "Aya Nakamura",
+        "genres": [
+            "basshall",
+            "francoton",
+            "pop urbaine"
+        ]
+    },
+    {
+        "id": "3YwqjMyrRfuixi2pbgTGCE",
+        "name": "Heuss L'enfoir\u00e9",
+        "genres": [
+            "francoton",
+            "french hip hop",
+            "pop urbaine",
+            "rap francais"
+        ]
+    },
+    {
+        "id": "718COspgdWOnwOFpJHRZHS",
+        "name": "Luke Combs",
+        "genres": [
+            "contemporary country",
+            "country"
+        ]
+    },
+    {
+        "id": "2IvkS5MXK0vPGnwyJsrEyV",
+        "name": "Eric Church",
+        "genres": [
+            "contemporary country",
+            "country",
+            "country road",
+            "modern country rock"
+        ]
+    },
+    {
+        "id": "3OqTvcWgb0xaainosGVvuZ",
+        "name": "Gala",
+        "genres": [
+            "eurodance",
+            "europop",
+            "hip house"
+        ]
+    },
+    {
+        "id": "73sIBHcqh3Z3NyqHKZ7FOL",
+        "name": "Childish Gambino",
+        "genres": [
+            "atl hip hop",
+            "hip hop",
+            "rap"
+        ]
+    },
+    {
+        "id": "2ysnwxxNtSgbb9t1m2Ur4j",
+        "name": "George Ezra",
+        "genres": [
+            "folk-pop",
+            "modern rock",
+            "neo-singer-songwriter",
+            "pop"
+        ]
+    },
+    {
+        "id": "5me0Irg2ANcsgc93uaYrpb",
+        "name": "The Notorious B.I.G.",
+        "genres": [
+            "east coast hip hop",
+            "gangster rap",
+            "hardcore hip hop",
+            "hip hop"
+        ]
+    },
+    {
+        "id": "0jeYkqwckGJoHQhhXwgzk3",
+        "name": "Cruz Cafun\u00e9",
+        "genres": [
+            "rap canario",
+            "urbano espanol"
+        ]
+    },
+    {
+        "id": "6xeFne1rkxMhKSW3ipvkdV",
+        "name": "Toploader",
+        "genres": [
+            "british alternative rock"
+        ]
+    },
+    {
+        "id": "4ckWVaYN8j0EZrNFRHmxZx",
+        "name": "Marmi",
+        "genres": [
+            "latin viral pop",
+            "rap espanol",
+            "spanish pop"
+        ]
+    },
+    {
+        "id": "1m9WPOccw8sizsVYUhSVjZ",
+        "name": "Selecta",
+        "genres": [
+            "urbano espanol"
+        ]
+    },
+    {
+        "id": "3YBJLs7RqR0aPGBgU27nDh",
+        "name": "Werenoi",
+        "genres": [
+            "french hip hop",
+            "pop urbaine",
+            "rap francais"
+        ]
+    },
+    {
+        "id": "0iEtIxbK0KxaSlF7G42ZOp",
+        "name": "Metro Boomin",
+        "genres": [
+            "hip hop",
+            "rap",
+            "southern hip hop",
+            "trap"
+        ]
+    },
+    {
+        "id": "1GLtl8uqKmnyCWxHmw9tL4",
+        "name": "The Kooks",
+        "genres": [
+            "brighton indie",
+            "modern rock",
+            "rock"
+        ]
+    },
+    {
+        "id": "1hJuGCUpefX24GFmss9bjH",
+        "name": "Amy Macdonald",
+        "genres": [
+            "scottish singer-songwriter"
+        ]
+    },
+    {
+        "id": "1IueXOQyABrMOprrzwQJWN",
+        "name": "Sigala",
+        "genres": [
+            "dance pop",
+            "edm",
+            "house",
+            "pop"
+        ]
+    },
+    {
+        "id": "6jStlKLflTMUN6BajxrNlj",
+        "name": "Julien Dor\u00e9",
+        "genres": [
+            "chanson",
+            "french pop",
+            "french rock",
+            "nouvelle chanson francaise"
+        ]
+    },
+    {
+        "id": "3E12tRURRvPfHz0hAMCFYc",
+        "name": "Omar Courtz",
+        "genres": [
+            "trap boricua"
+        ]
+    },
+    {
+        "id": "1moxjboGR7GNWYIMWsRjgG",
+        "name": "Florence + The Machine",
+        "genres": [
+            "baroque pop",
+            "pop",
+            "uk alternative pop"
+        ]
+    },
+    {
+        "id": "2gduEC76ry33RVurAvT05p",
+        "name": "Nathan Dawe",
+        "genres": [
+            "dance pop",
+            "house",
+            "pop dance",
+            "tropical house"
+        ]
+    },
+    {
+        "id": "2PJEagPIxaBugeMjIyKVXF",
+        "name": "Aitch",
+        "genres": [
+            "manchester hip hop"
+        ]
+    },
+    {
+        "id": "5f6nz3iqzrfiUfKOIKvLvd",
+        "name": "Nemir",
+        "genres": [
+            "french hip hop",
+            "pop urbaine",
+            "rap calme"
+        ]
+    },
+    {
+        "id": "7dIpKWlEeAljA20vFJ82RD",
+        "name": "Roar",
+        "genres": [
+            "indie pop",
+            "weirdcore"
+        ]
+    },
+    {
+        "id": "1pPmIToKXyGdsCF6LmqLmI",
+        "name": "Rich The Kid",
+        "genres": [
+            "atl hip hop",
+            "hip hop",
+            "melodic rap",
+            "plugg"
+        ]
+    },
+    {
+        "id": "1ackd5XprZEkH3McKbQD51",
+        "name": "Juan Mag\u00e1n",
+        "genres": [
+            "dance pop",
+            "electro latino",
+            "latin",
+            "latin pop"
+        ]
+    },
+    {
+        "id": "03Vz1qy4oauKKM9kJKy5DW",
+        "name": "EAZ",
+        "genres": [
+            "kosovan pop",
+            "schweizer rap",
+            "swiss hip hop",
+            "swiss trap"
+        ]
+    },
+    {
+        "id": "6ddcxDK0BEkhe5LCdoA5Ki",
+        "name": "Nickzzy",
+        "genres": [
+            "drill espanol",
+            "trap latino",
+            "urbano espanol"
+        ]
+    },
+    {
+        "id": "0LKAV3zJ8a8AIGnyc5OvfB",
+        "name": "SDM",
+        "genres": [
+            "french hip hop",
+            "pop urbaine",
+            "rap francais"
+        ]
+    },
+    {
+        "id": "5pKCCKE2ajJHZ9KAiaK11H",
+        "name": "Rihanna",
+        "genres": [
+            "barbadian pop",
+            "dance pop",
+            "pop",
+            "pop rap"
+        ]
+    },
+    {
+        "id": "4reog9Hn84AuUWvGX5a2Yq",
+        "name": "Zed",
+        "genres": []
+    },
+    {
+        "id": "77AiFEVeAVj2ORpC85QVJs",
+        "name": "Steve Aoki",
+        "genres": [
+            "dance pop",
+            "edm",
+            "electro house",
+            "pop dance"
+        ]
+    },
+    {
+        "id": "6dbdXbyAWk2qx8Qttw0knR",
+        "name": "Josman",
+        "genres": [
+            "french hip hop",
+            "pop urbaine",
+            "rap conscient"
+        ]
+    },
+    {
+        "id": "0qTZZWLzuD59Un5r1speHm",
+        "name": "Chris Jedi",
+        "genres": [
+            "latin",
+            "latin hip hop",
+            "reggaeton",
+            "reggaeton flow"
+        ]
+    },
+    {
+        "id": "2sil8z5kiy4r76CRTXxBCA",
+        "name": "The Goo Goo Dolls",
+        "genres": [
+            "neo mellow",
+            "permanent wave",
+            "pop rock"
+        ]
+    },
+    {
+        "id": "7u6LfVyYpEzMpHLL7jTyvU",
+        "name": "Dwele",
+        "genres": [
+            "alternative r&b",
+            "neo soul",
+            "r&b",
+            "urban contemporary"
+        ]
+    },
+    {
+        "id": "4OV6uYSnHxSYkjDYuBVBUz",
+        "name": "Slimane",
+        "genres": [
+            "francoton",
+            "french pop"
+        ]
+    },
+    {
+        "id": "2t7vyRN71qtQT18frElAnV",
+        "name": "Maikel Delacalle",
+        "genres": [
+            "rap canario",
+            "trap latino",
+            "urbano espanol"
+        ]
+    },
+    {
+        "id": "2s7fZ34RK8RUJQ2ewsh6I5",
+        "name": "RK",
+        "genres": [
+            "francoton",
+            "french hip hop",
+            "pop urbaine",
+            "rap conscient"
+        ]
+    },
+    {
+        "id": "2ErWLckuGFl84nGmg5fwyG",
+        "name": "Bilderbuch",
+        "genres": [
+            "austrian pop",
+            "german pop",
+            "vienna indie"
+        ]
+    },
+    {
+        "id": "4GGfAshSkqoxpZdoaHm7ky",
+        "name": "ERNEST",
+        "genres": [
+            "contemporary country"
+        ]
+    },
+    {
+        "id": "6vWDO969PvNqNYHIOW5v0m",
+        "name": "Beyonc\u00e9",
+        "genres": [
+            "dance pop",
+            "pop",
+            "r&b"
+        ]
+    },
+    {
+        "id": "6FOpWOxsjQxKEbLiJpU1xV",
+        "name": "India Martinez",
+        "genres": [
+            "latin arena pop",
+            "latin pop",
+            "pop flamenco",
+            "rumba"
+        ]
+    },
+    {
+        "id": "3EW0kQ1skZiK1NHg3Spt9J",
+        "name": "Takeoff",
+        "genres": [
+            "atl hip hop",
+            "rap",
+            "southern hip hop",
+            "trap"
+        ]
+    },
+    {
+        "id": "5W9ShLREoRMuXqSSYMeHqk",
+        "name": "Gianni",
+        "genres": [
+            "french hip hop",
+            "pop urbaine",
+            "rap calme",
+            "rap francais"
+        ]
+    },
+    {
+        "id": "7wjeXCtRND2ZdKfMJFu6JC",
+        "name": "Louane",
+        "genres": [
+            "francoton",
+            "french pop"
+        ]
+    },
+    {
+        "id": "1lB3I3SI30v2ZOpR4XQqzJ",
+        "name": "Gambi",
+        "genres": [
+            "french hip hop",
+            "pop urbaine",
+            "rap francais"
+        ]
+    },
+    {
+        "id": "3AA28KZvwAUcZuOKwyblJQ",
+        "name": "Gorillaz",
+        "genres": [
+            "alternative hip hop"
+        ]
+    },
+    {
+        "id": "3Zs59sqZJ6fWQqWbRC8bOP",
+        "name": "Natalia Lacunza",
+        "genres": [
+            "eurovision",
+            "latin talent show",
+            "latin viral pop",
+            "spanish pop"
+        ]
+    },
+    {
+        "id": "6AMd49uBDJfhf30Ak2QR5s",
+        "name": "Coi Leray",
+        "genres": [
+            "new jersey underground rap",
+            "pop rap",
+            "r&b",
+            "trap queen"
+        ]
+    },
+    {
+        "id": "3qBKjEOanahMxlRojwCzhI",
+        "name": "Zacari",
+        "genres": [
+            "gqom"
+        ]
+    },
+    {
+        "id": "54kCbQZaZWHnwwj9VP2hn4",
+        "name": "Zola",
+        "genres": [
+            "french hip hop",
+            "pop urbaine",
+            "rap francais"
+        ]
+    },
+    {
+        "id": "43BxCL6t4c73BQnIJtry5v",
+        "name": "James Hype",
+        "genres": [
+            "dance pop",
+            "deep groove house",
+            "edm",
+            "house"
+        ]
+    },
+    {
+        "id": "6rqlONGmPuP2wJVSfliLBI",
+        "name": "Peter Fox",
+        "genres": [
+            "german pop",
+            "german rock"
+        ]
+    },
+    {
+        "id": "1tnX93BHWyMdBSLhwAzo1j",
+        "name": "Mudi",
+        "genres": [
+            "german hip hop",
+            "turkish trap pop"
+        ]
+    },
+    {
+        "id": "6RWMnZmXs8Ob715qLr4374",
+        "name": "Aissa",
+        "genres": [
+            "urbano espanol"
+        ]
+    },
+    {
+        "id": "77iZVjeYoYSl5P0K9mIiUE",
+        "name": "Haze",
+        "genres": [
+            "latin pop"
+        ]
+    },
+    {
+        "id": "4uiEeT7dw0guTJ5CPMsX83",
+        "name": "SHB",
+        "genres": [
+            "urbano espanol"
+        ]
+    },
+    {
+        "id": "63yrD80RY3RNEM2YDpUpO8",
+        "name": "Melanie Martinez",
+        "genres": [
+            "alt z",
+            "electropop",
+            "pop"
+        ]
+    },
+    {
+        "id": "2SveKtmknwwMpYJtuFkYZj",
+        "name": "Schubi AKpella",
+        "genres": [
+            "german hip hop"
+        ]
+    },
+    {
+        "id": "2wIVse2owClT7go1WT98tk",
+        "name": "Missy Elliott",
+        "genres": [
+            "dance pop",
+            "hip hop",
+            "hip pop",
+            "pop"
+        ]
+    },
+    {
+        "id": "3m5qlPf2OkihLz3dRYnkPA",
+        "name": "Ovy On The Drums",
+        "genres": [
+            "colombian pop",
+            "latin pop",
+            "reggaeton",
+            "reggaeton colombiano"
+        ]
+    },
+    {
+        "id": "5KBbs98MK59UNMF1VTwMmz",
+        "name": "Claudio Cap\u00e9o",
+        "genres": [
+            "chanson",
+            "francoton",
+            "french pop",
+            "variete francaise"
+        ]
+    },
+    {
+        "id": "2bxxlINUlcMQQb39K7IopR",
+        "name": "Abraham Mateo",
+        "genres": [
+            "dominican pop",
+            "latin",
+            "latin arena pop",
+            "latin pop"
+        ]
+    },
+    {
+        "id": "2HPaUgqeutzr3jx5a9WyDV",
+        "name": "PARTYNEXTDOOR",
+        "genres": [
+            "pop",
+            "pop rap",
+            "r&b",
+            "rap"
+        ]
+    },
+    {
+        "id": "6QzzeKV0VcnT2vJMYDPuL4",
+        "name": "Trettmann",
+        "genres": [
+            "german cloud rap",
+            "german hip hop",
+            "hamburg hip hop"
+        ]
+    },
+    {
+        "id": "5mmEMfYChd6MImBagU7zCs",
+        "name": "Bigflo & Oli",
+        "genres": [
+            "francoton",
+            "french pop",
+            "rap conscient"
+        ]
+    },
+    {
+        "id": "00me4Ke1LsvMxt5kydlMyU",
+        "name": "Cosculluela",
+        "genres": [
+            "latin",
+            "latin hip hop",
+            "reggaeton",
+            "reggaeton flow"
+        ]
+    },
+    {
+        "id": "3Xt3RrJMFv5SZkCfUE8C1J",
+        "name": "Kim Petras",
+        "genres": [
+            "art pop",
+            "dance pop",
+            "electropop",
+            "escape room"
+        ]
+    },
+    {
+        "id": "6ZzzrehTAdrM8y6saVjtoN",
+        "name": "TeeDee",
+        "genres": []
+    },
+    {
+        "id": "164Uj4eKjl6zTBKfJLFKKK",
+        "name": "JVKE",
+        "genres": [
+            "modern indie pop"
+        ]
+    },
+    {
+        "id": "0HxX6imltnNXJyQhu4nsiO",
+        "name": "LF SYSTEM",
+        "genres": [
+            "disco house",
+            "house"
+        ]
+    },
+    {
+        "id": "13mm5rU1jvWfWG6uQ46ypd",
+        "name": "Pierre de Maere",
+        "genres": [
+            "french pop",
+            "new french touch"
+        ]
+    },
+    {
+        "id": "2oOAiE62UgqjCEWTHPdn0F",
+        "name": "Nuit Incolore",
+        "genres": [
+            "rap calme"
+        ]
+    },
+    {
+        "id": "6CP5wWvO8oIxedESJNCN4H",
+        "name": "Ski Aggu",
+        "genres": [
+            "german hip hop"
+        ]
+    },
+    {
+        "id": "50ZzowkYhUZZ2uGZSXqJbE",
+        "name": "Florian K\u00fcnstler",
+        "genres": [
+            "german pop"
+        ]
+    },
+    {
+        "id": "7qMDCTsnaGWM9h8rqTnk0q",
+        "name": "Levin Liam",
+        "genres": [
+            "german hip hop"
+        ]
+    },
+    {
+        "id": "2CaWJMR1eyvq8n5h96ggJC",
+        "name": "Durdenhauer",
+        "genres": []
+    },
+    {
+        "id": "06VwNCd4PPAxBuxheaf5bz",
+        "name": "DJ Robin",
+        "genres": [
+            "partyschlager"
+        ]
+    },
+    {
+        "id": "6Sbl0NT50roqWvy746MfVf",
+        "name": "Gabito Ballesteros",
+        "genres": [
+            "corrido",
+            "nueva musica mexicana"
+        ]
+    },
+    {
+        "id": "762310PdDnwsDxAQxzQkfX",
+        "name": "Depeche Mode",
+        "genres": [
+            "dance rock",
+            "new romantic",
+            "new wave",
+            "permanent wave"
+        ]
+    },
+    {
+        "id": "4zvLVP1siaenGVnUBDo2nt",
+        "name": "Daniel Miller",
+        "genres": []
+    },
+    {
+        "id": "7iWcRnQMinCoV2u5ICgsW0",
+        "name": "Udo Lindenberg",
+        "genres": [
+            "german pop",
+            "german rock"
+        ]
+    },
+    {
+        "id": "7a35Zdc78bDXJv2vYf5hSO",
+        "name": "Beendo Z",
+        "genres": [
+            "rap francais"
+        ]
+    },
+    {
+        "id": "49jTY62Cpw3RYo4dLuG43W",
+        "name": "Cian Ducrot",
+        "genres": [
+            "irish pop"
+        ]
+    },
+    {
+        "id": "3qiHUAX7zY4Qnjx8TNUzVx",
+        "name": "Yeat",
+        "genres": [
+            "pluggnb"
+        ]
+    },
+    {
+        "id": "2D8UzkIVdg1bj0Iqz6gjk0",
+        "name": "Abhir Hathi",
+        "genres": [
+            "urbano espanol"
+        ]
+    },
+    {
+        "id": "3DgZk9TPxWee4QgbRpKGF4",
+        "name": "Shibui",
+        "genres": []
+    },
+    {
+        "id": "0niAkxgT6y57bRbT0Ge94z",
+        "name": "LiL CaKe",
+        "genres": [
+            "trap argentino",
+            "trap triste"
+        ]
+    },
+    {
+        "id": "4IndUOBCZYZg61557iq2A9",
+        "name": "Maldy",
+        "genres": [
+            "latin hip hop",
+            "reggaeton",
+            "reggaeton flow"
+        ]
+    },
+    {
+        "id": "6nVcHLIgY5pE2YCl8ubca1",
+        "name": "Jhayco",
+        "genres": [
+            "reggaeton",
+            "trap latino",
+            "urbano latino"
+        ]
+    },
+    {
+        "id": "56Qz2XwGj7FxnNKrfkWjnb",
+        "name": "FAST BOY",
+        "genres": []
+    },
+    {
+        "id": "5xSXFYJ9xBDUBxF5VUKDZR",
+        "name": "Dertay",
+        "genres": []
+    },
+    {
+        "id": "0IEzMvarfVycBJAXjjEZOL",
+        "name": "La Pantera",
+        "genres": [
+            "rap canario"
+        ]
+    },
+    {
+        "id": "2xzyIzdjfeXX6FIQtlAAyw",
+        "name": "ARIZONATEARS",
+        "genres": []
+    },
+    {
+        "id": "7I3bkknknQkIiatWiupQgD",
+        "name": "Beach Weather",
+        "genres": []
+    },
+    {
+        "id": "2W6WP4pHQTFlbr2z9S4n54",
+        "name": "Kordhell",
+        "genres": [
+            "drift phonk"
+        ]
+    },
+    {
+        "id": "6zBax4hSAI1BJYgwF61EP5",
+        "name": "In\u00e9z",
+        "genres": []
+    },
+    {
+        "id": "1r93D0anfnfL4M7tYTce0J",
+        "name": "Edwin Rosen",
+        "genres": [
+            "neue neue deutsche welle"
+        ]
+    },
+    {
+        "id": "0M2CO5ijP35MDhNwvpgxTV",
+        "name": "sped up nightcore",
+        "genres": [
+            "nightcore",
+            "sped up"
+        ]
+    },
+    {
+        "id": "0Upxnyh9nIUNSOmNE8WF4R",
+        "name": "BYOR",
+        "genres": [
+            "bass house",
+            "electro house",
+            "russian edm"
+        ]
+    },
+    {
+        "id": "7o2ZQYM7nTsaVdkXY38UAA",
+        "name": "Em Beihold",
+        "genres": [
+            "alt z",
+            "gen z singer-songwriter"
+        ]
+    },
+    {
+        "id": "6WAnQfBWB7ddhujPsFQ0pG",
+        "name": "Lauty Gram",
+        "genres": [
+            "rkt"
+        ]
+    },
+    {
+        "id": "2NeFajzkAQ4UfviWdzf0pK",
+        "name": "Marta Santos",
+        "genres": [
+            "flamenco urbano",
+            "pop flamenco"
+        ]
+    },
+    {
+        "id": "3LZZPxNDGDFVSIPqf4JuEf",
+        "name": "Ice Spice",
+        "genres": []
+    },
+    {
+        "id": "46xBNx0j6cwY6sD9LgMTm1",
+        "name": "Rosa Linn",
+        "genres": [
+            "alt z"
+        ]
+    },
+    {
+        "id": "40ZNYROS4zLfyyBSs2PGe2",
+        "name": "Zach Bryan",
+        "genres": [
+            "oklahoma country"
+        ]
+    },
+    {
+        "id": "2rmkQLzj0k4nZdQehOUByO",
+        "name": "Chino Pacas",
+        "genres": [
+            "corrido",
+            "nueva musica mexicana"
+        ]
+    },
+    {
+        "id": "0ITff7REwQrTAlu9HsiWQT",
+        "name": "The Prodigiez",
+        "genres": []
+    },
+    {
+        "id": "1H2agrqo1Y8alTi5Wde6UG",
+        "name": "FABE BROWN",
+        "genres": []
+    },
+    {
+        "id": "6BH1xcDkwbbyrLMUKECsW1",
+        "name": "Toosii",
+        "genres": [
+            "north carolina hip hop"
+        ]
+    },
+    {
+        "id": "00vsUIEaNHw6qoQnh8DQM2",
+        "name": "EL IMA",
+        "genres": []
+    },
+    {
+        "id": "3ZpEKRjHaHANcpk10u6Ntq",
+        "name": "Ayra Starr",
+        "genres": []
+    },
+    {
+        "id": "1buzCmyYZE4kcdLRudsb8V",
+        "name": "Mikky Ekko",
+        "genres": [
+            "nashville indie"
+        ]
+    },
+    {
+        "id": "2kS9NyuATpYwjeB93h24H5",
+        "name": "Nina Chuba",
+        "genres": [
+            "hamburg hip hop"
+        ]
+    },
+    {
+        "id": "6poBa7e0hqMo8tfNjh0TAV",
+        "name": "Die Draufg\u00e4nger",
+        "genres": [
+            "partyschlager",
+            "schlager",
+            "volkspop"
+        ]
+    },
+    {
+        "id": "4TGltjqP0MQxdGeSIrM4es",
+        "name": "RIDSA",
+        "genres": [
+            "francoton",
+            "french pop"
+        ]
+    },
+    {
+        "id": "2RV0VshxVfkduUIHn0PLzJ",
+        "name": "bshp",
+        "genres": []
+    },
+    {
+        "id": "5jNjbQYkujIbjSvvKroBlv",
+        "name": "Subelo NEO",
+        "genres": []
+    },
+    {
+        "id": "6B4RvAzPbZcxMjhZvFSDis",
+        "name": "Boris Way",
+        "genres": [
+            "new french touch",
+            "tropical house"
+        ]
+    },
+    {
+        "id": "5kgDdP7a4TsvkF08gpJGX0",
+        "name": "Juseph",
+        "genres": [
+            "urbano espanol"
+        ]
+    },
+    {
+        "id": "7rz6ZZErn5YFDteXKhyf3g",
+        "name": "Disiz",
+        "genres": [
+            "french hip hop",
+            "rap calme",
+            "rap conscient"
+        ]
+    },
+    {
+        "id": "5n9bMYfz9qss2VOW89EVs2",
+        "name": "Bomba Est\u00e9reo",
+        "genres": [
+            "cumbia",
+            "latin alternative",
+            "latin rock",
+            "pop electronico"
+        ]
+    },
+    {
+        "id": "1Wic7dyEeEpQXDBbDf6HKm",
+        "name": "HoodBlaq",
+        "genres": [
+            "german hip hop"
+        ]
+    },
+    {
+        "id": "5f7z2thkqWrA4vp5Hh476O",
+        "name": "Enol",
+        "genres": [
+            "rap espanol",
+            "spanish pop"
+        ]
+    },
+    {
+        "id": "09wnzgFWuf8oZHJ4BDoeMS",
+        "name": "Olupellar",
+        "genres": []
+    },
+    {
+        "id": "7kjSuFGKhLm8b5qXoMhRkJ",
+        "name": "Libianca",
+        "genres": []
+    },
+    {
+        "id": "5OLkn5GT6EcMuJzjwgvQnu",
+        "name": "Vacra",
+        "genres": [
+            "pop urbaine"
+        ]
+    },
+    {
+        "id": "5y8tKLUfMvliMe8IKamR32",
+        "name": "d4vd",
+        "genres": [
+            "bedroom pop"
+        ]
+    },
+    {
+        "id": "4H9W4cb3X0qRpv87yKV7fV",
+        "name": "Kwam.E",
+        "genres": [
+            "german alternative rap",
+            "german boom bap",
+            "german hip hop",
+            "german trap"
+        ]
+    },
+    {
+        "id": "33X2jfLSVyDevoksJjRZoS",
+        "name": "Strandz",
+        "genres": []
+    },
+    {
+        "id": "2D4FOOOtWycb3Aw9nY5n3c",
+        "name": "Declan McKenna",
+        "genres": [
+            "indie pop",
+            "modern alternative rock",
+            "modern rock",
+            "rock"
+        ]
+    },
+    {
+        "id": "4XC335ouK6pXyq4QiIb8bP",
+        "name": "Eliza Rose",
+        "genres": [
+            "house"
+        ]
+    },
+    {
+        "id": "4UWWa5dKgTLAx8mv6Ju6X1",
+        "name": "venbee",
+        "genres": []
+    },
+    {
+        "id": "3win9vGIxFfBRag9S63wwf",
+        "name": "Bailey Zimmerman",
+        "genres": []
+    },
+    {
+        "id": "6wH6iStAh4KIaWfuhf0NYM",
+        "name": "Manu Chao",
+        "genres": [
+            "latin alternative",
+            "world"
+        ]
+    },
+    {
+        "id": "2PAyYzUdafG4mFFp6Rynsk",
+        "name": "Raul Clyde",
+        "genres": [
+            "urbano espanol"
+        ]
+    },
+    {
+        "id": "6AFA7y2tNohNcpaLwDRyxx",
+        "name": "KXXMA",
+        "genres": []
+    },
+    {
+        "id": "21dVknSLCsK37cWozWDZZS",
+        "name": "Matt Sassari",
+        "genres": [
+            "french tech house",
+            "french techno"
+        ]
+    },
+    {
+        "id": "7LmtogB01302Utf3C3R4GT",
+        "name": "GAULOIS",
+        "genres": [
+            "francoton",
+            "french hip hop",
+            "pop urbaine",
+            "rap francais"
+        ]
+    },
+    {
+        "id": "5yOvAmpIR7hVxiS6Ls5DPO",
+        "name": "Omah Lay",
+        "genres": [
+            "afro dancehall"
+        ]
+    },
+    {
+        "id": "0BovidHLtM9n55WXWkApK9",
+        "name": "Samura\u00ef",
+        "genres": [
+            "rap espanol",
+            "spanish pop"
+        ]
+    },
+    {
+        "id": "42RwQlOWDVzGRQVa61O8VV",
+        "name": "OVE",
+        "genres": []
+    },
+    {
+        "id": "2EahEAOUPPXAcncTr8laCj",
+        "name": "MADE",
+        "genres": [
+            "german hip hop"
+        ]
+    },
+    {
+        "id": "45ruzGUmIr8WLjLOPJ9mGU",
+        "name": "Miggy Dela Rosa",
+        "genres": [
+            "dance pop"
+        ]
+    },
+    {
+        "id": "2nxyC1TQywKkvfkvuaiaW6",
+        "name": "TurboKevin",
+        "genres": []
+    },
+    {
+        "id": "574qIjE9UTvfSvtnIrdLaE",
+        "name": "Loi",
+        "genres": []
+    },
+    {
+        "id": "1w8f71fNCVvZtiz4DLd7N5",
+        "name": "Harley",
+        "genres": [
+            "pop urbaine",
+            "rap francais"
+        ]
+    },
+    {
+        "id": "5QrV5Vr4KdsyKtifvD6X1U",
+        "name": "Issey Cross",
+        "genres": []
+    },
+    {
+        "id": "6XkjpgcEsYab502Vr1bBeW",
+        "name": "Grupo Frontera",
+        "genres": [
+            "musica chihuahuense",
+            "nueva musica mexicana"
+        ]
+    },
+    {
+        "id": "35WVTyRnKAoaGExqgktVyb",
+        "name": "Hotel Ugly",
+        "genres": []
+    },
+    {
+        "id": "7mx6iGwPF157vXwYcl1DQ3",
+        "name": "Restricted",
+        "genres": []
+    },
+    {
+        "id": "6HvZYsbFfjnjFrWF950C9d",
+        "name": "NewJeans",
+        "genres": [
+            "k-pop",
+            "k-pop girl group"
+        ]
+    },
+    {
+        "id": "2HIP5sNZWkrPgSBWRk8XpA",
+        "name": "SIRA",
+        "genres": []
+    },
+    {
+        "id": "1NNRWkhwmcXRimFYSBpB1y",
+        "name": "Yng Lvcas",
+        "genres": [
+            "urbano latino",
+            "urbano mexicano"
+        ]
+    },
+    {
+        "id": "0NbfKEOTQCcwd6o7wSDOHI",
+        "name": "The Game",
+        "genres": [
+            "gangster rap",
+            "hip hop",
+            "pop rap",
+            "rap"
+        ]
+    },
+    {
+        "id": "7dJCdUO0l0K2WXzrzjYpmC",
+        "name": "Caity Baser",
+        "genres": [
+            "uk pop"
+        ]
+    },
+    {
+        "id": "19HM5j0ULGSmEoRcrSe5x3",
+        "name": "Milo j",
+        "genres": []
+    },
+    {
+        "id": "5hKGLu4Ik88FzWcTPhWNTN",
+        "name": "INTERWORLD",
+        "genres": [
+            "phonk brasileiro"
+        ]
+    },
+    {
+        "id": "57WgHRhbRK7ArL0Vgs4s2I",
+        "name": "Farruquito",
+        "genres": []
+    },
+    {
+        "id": "3yDDYheQFqfhKZXdjFQuuP",
+        "name": "goddard.",
+        "genres": [
+            "uk dnb"
+        ]
+    },
+    {
+        "id": "2gW0M5fn2r7Lo4Hn1r8HZ5",
+        "name": "Creeds",
+        "genres": []
+    },
+    {
+        "id": "2O8vbr4RYPpk6MRA4fio7u",
+        "name": "Saiko",
+        "genres": [
+            "urbano espanol",
+            "urbano latino"
+        ]
+    },
+    {
+        "id": "2z1MpPojFcvxYcEAx0lT6w",
+        "name": "Vicco",
+        "genres": []
+    },
+    {
+        "id": "6vNAKgK5d74N1I0zTxRPDp",
+        "name": "Tream",
+        "genres": [
+            "partyschlager"
+        ]
+    },
+    {
+        "id": "744jIBAAvzMa5eVtUZDxR1",
+        "name": "Liaze",
+        "genres": [
+            "german hip hop",
+            "german trap"
+        ]
+    },
+    {
+        "id": "0GgyFUpOyzWDRDqx8FCTDN",
+        "name": "Baby Rasta",
+        "genres": [
+            "latin hip hop",
+            "reggaeton",
+            "reggaeton flow",
+            "urbano latino"
+        ]
+    },
+    {
+        "id": "1GmsPCcpKgF9OhlNXjOsbS",
+        "name": "Lizzy McAlpine",
+        "genres": [
+            "boston folk",
+            "indie pop",
+            "pop"
+        ]
+    },
+    {
+        "id": "6uJ51uV5rYzu1MJkC4CceI",
+        "name": "Interplanetary Criminal",
+        "genres": [
+            "breaks",
+            "experimental house"
+        ]
+    },
+    {
+        "id": "1rpxM2mBJnWdfPeieLDYOc",
+        "name": "ZEG P",
+        "genres": []
+    },
+    {
+        "id": "12GqGscKJx3aE4t07u7eVZ",
+        "name": "Peso Pluma",
+        "genres": [
+            "sad sierreno"
+        ]
+    },
+    {
+        "id": "1GVuCyb4PlArufUZDUnRQi",
+        "name": "southstar",
+        "genres": []
+    },
+    {
+        "id": "4S9LNSZusH3XflT3g32bqB",
+        "name": "Carla Monroe",
+        "genres": []
+    },
+    {
+        "id": "3rZxAl7fnH4NDynhJm3MUm",
+        "name": "Kolja Goldstein",
+        "genres": [
+            "german hip hop",
+            "german underground rap"
+        ]
+    },
+    {
+        "id": "6Q3ske8DX705YojfAgidez",
+        "name": "Came Beats",
+        "genres": []
+    },
+    {
+        "id": "2mkCm5VNJTplOKJxcDYMpa",
+        "name": "Ericson",
+        "genres": []
+    },
+    {
+        "id": "5qPRgWcEOGRzoIST0sHAiI",
+        "name": "Angel Dior",
+        "genres": [
+            "dominican pop"
+        ]
+    },
+    {
+        "id": "4jsmk00NuPR1FfXqUCF1ac",
+        "name": "treamiboii",
+        "genres": []
+    },
+    {
+        "id": "39TshGQ7RY8nYrhILYRT1S",
+        "name": "Linton",
+        "genres": []
+    },
+    {
+        "id": "7w9jfr3fWWEOnm5O3c296Q",
+        "name": "Jairo deRemache",
+        "genres": []
+    },
+    {
+        "id": "7CXlqxbfckEDH2hQMjrGyZ",
+        "name": "Phil Legg",
+        "genres": []
+    },
+    {
+        "id": "3Sz7ZnJQBIHsXLUSo0OQtM",
+        "name": "Mac DeMarco",
+        "genres": [
+            "edmonton indie",
+            "lo-fi indie"
+        ]
+    },
+    {
+        "id": "3S46qb1V62vKdGl1sR6LEQ",
+        "name": "Sch\u00fcrze",
+        "genres": [
+            "partyschlager"
+        ]
+    },
+    {
+        "id": "5jNmxPYz8QE5rYp4GDil8t",
+        "name": "Dina Rae",
+        "genres": []
+    },
+    {
+        "id": "4MvZhE1iuzttcoyepkpfdF",
+        "name": "ThxSoMch",
+        "genres": []
+    },
+    {
+        "id": "52iwsT98xCoGgiGntTiR7K",
+        "name": "Quevedo",
+        "genres": [
+            "rap canario"
+        ]
+    },
+    {
+        "id": "4YUcg2ee9TxMNdjhAxzZBF",
+        "name": "Ashh",
+        "genres": [
+            "french hip hop",
+            "pop urbaine",
+            "rap calme"
+        ]
+    },
+    {
+        "id": "6L7j9oK58YpVLZClqX0iF4",
+        "name": "ARY",
+        "genres": [
+            "german hip hop",
+            "german trap"
+        ]
+    },
+    {
+        "id": "20JMfmzDb5cjHxEoMXXMyY",
+        "name": "Fav\u00e9",
+        "genres": []
+    },
+    {
+        "id": "5CWqAxPyMw1opbJyhvs6YO",
+        "name": "GAZY MP",
+        "genres": []
+    },
+    {
+        "id": "0Cs47vvRsPgEfliBU9KDiB",
+        "name": "D.O.D",
+        "genres": [
+            "dance pop",
+            "edm",
+            "electro house",
+            "house"
+        ]
+    },
+    {
+        "id": "1nRbtbdYK51y71nVOxu332",
+        "name": "Kerchak",
+        "genres": []
+    },
+    {
+        "id": "4TLCPR1sMYoNU1jA7O4uww",
+        "name": "D.O.E.",
+        "genres": []
+    },
+    {
+        "id": "5344K3N7rx7kw1HjO8psuq",
+        "name": "James Carter",
+        "genres": [
+            "covertronica",
+            "pop dance",
+            "tropical house"
+        ]
+    },
+    {
+        "id": "4bId6MR2fskVKIeCSEmktg",
+        "name": "Ivo Martin",
+        "genres": []
+    },
+    {
+        "id": "3Wxidvy1joh0HaRNyvpIdb",
+        "name": "Dorian",
+        "genres": [
+            "german hip hop"
+        ]
+    },
+    {
+        "id": "054k3bx4tpjx1tfypvq3eq",
+        "name": "Bobby Vandamme",
+        "genres": [
+            "german hip hop"
+        ]
+    },
+    {
+        "id": "3RbuVoer2pZlqAXI73ElhX",
+        "name": "Cheriimoya",
+        "genres": [
+            "sad lo-fi"
+        ]
+    },
+    {
+        "id": "1aSxMhuvixZ8h9dK9jIDwL",
+        "name": "Kate Bush",
+        "genres": [
+            "art pop",
+            "art rock",
+            "baroque pop",
+            "new wave pop"
+        ]
+    },
+    {
+        "id": "5XKFrudbV4IiuE5WuTPRmT",
+        "name": "Stephen Sanchez",
+        "genres": [
+            "gen z singer-songwriter",
+            "pop"
+        ]
+    },
+    {
+        "id": "1pi7nGhOM7PTHR5YEgXVGq",
+        "name": "Villano Antillano",
+        "genres": [
+            "rap boricua",
+            "urbano latino"
+        ]
+    },
+    {
+        "id": "75oAxYtjhDyLttgvGwQIvM",
+        "name": "Aime Simone",
+        "genres": []
+    },
+    {
+        "id": "311uEW9rt5g2NmzjGEKS2E",
+        "name": "Mae Stephens",
+        "genres": []
+    },
+    {
+        "id": "63wjoROpeh5f11Qm93UiJ1",
+        "name": "Keri Hilson",
+        "genres": [
+            "dance pop",
+            "hip pop",
+            "pop r&b",
+            "post-teen pop"
+        ]
+    },
+    {
+        "id": "12Zk1DFhCbHY6v3xep2ZjI",
+        "name": "070 Shake",
+        "genres": [
+            "new jersey rap"
+        ]
+    },
+    {
+        "id": "3tN4jv8IaO9UAKTWqpXaV4",
+        "name": "Mia Julia",
+        "genres": [
+            "partyschlager",
+            "schlager"
+        ]
+    },
+    {
+        "id": "77puYb4Nubacm3PAzkY1UQ",
+        "name": "Julian Sommer",
+        "genres": [
+            "partyschlager"
+        ]
+    },
+    {
+        "id": "4NYMUsIcUUsBHbV9DICa5x",
+        "name": "Nate Smith",
+        "genres": [
+            "contemporary country",
+            "country"
+        ]
+    },
+    {
+        "id": "3K2Srho6NCF3o9MswGR76H",
+        "name": "Bakar",
+        "genres": [
+            "uk alternative hip hop"
+        ]
+    },
+    {
+        "id": "4PUr4W5mWlzMkyVpSiX2ZN",
+        "name": "Makar",
+        "genres": [
+            "belgian hip hop"
+        ]
+    },
+    {
+        "id": "4Gr4Wo60IdAOBJLYgRZytK",
+        "name": "Edu Garc\u00eda",
+        "genres": [
+            "nuevo flamenco"
+        ]
+    },
+    {
+        "id": "0s4kXsjYeH0S1xRyVGN4NO",
+        "name": "FLO",
+        "genres": [
+            "pop",
+            "r&b"
+        ]
+    },
+    {
+        "id": "4ZfEELHfyKd4odAb6YfDFw",
+        "name": "White Noise for Babies",
+        "genres": [
+            "sleep"
+        ]
+    },
+    {
+        "id": "3qsKSpcV3ncke3hw52JSMB",
+        "name": "Young Miko",
+        "genres": [
+            "trap latino",
+            "urbano latino"
+        ]
+    },
+    {
+        "id": "3XZewrXpRQqqCMuUMAIhvN",
+        "name": "Domiziana",
+        "genres": []
+    },
+    {
+        "id": "1HLQrKy2EhoJdADW105gfR",
+        "name": "ALCATRAZ",
+        "genres": []
+    },
+    {
+        "id": "3pTZ5sCcE1o2O9sWn5yQMg",
+        "name": "Hydro",
+        "genres": []
+    },
+    {
+        "id": "41BZwHjzWGfT4wsOP3yZOz",
+        "name": "Phontana",
+        "genres": []
+    },
+    {
+        "id": "6AyATGg7mDgBlZ4N5uNog0",
+        "name": "SYML",
+        "genres": [
+            "pop"
+        ]
+    },
+    {
+        "id": "4dEayBlrVBjaQOktGkmWki",
+        "name": "Switch Disco",
+        "genres": []
+    },
+    {
+        "id": "4W12lEvVl5wectUtRNrvDh",
+        "name": "White Noise Baby Sleep",
+        "genres": [
+            "sleep"
+        ]
+    },
+    {
+        "id": "1S82w4yw9TYIHZ889mPPaW",
+        "name": "Kanii",
+        "genres": []
+    },
+    {
+        "id": "5Ppie0uPnbnvGBYRwYmlt0",
+        "name": "Megan Moroney",
+        "genres": [
+            "contemporary country"
+        ]
+    },
+    {
+        "id": "13ZEDW6vyBF12HYcZRr4EV",
+        "name": "Tyler Childers",
+        "genres": [
+            "kentucky indie",
+            "kentucky roots",
+            "outlaw country"
+        ]
+    },
+    {
+        "id": "7ur9WUsgFMxnJAKojdVBeg",
+        "name": "LLUISA",
+        "genres": []
+    },
+    {
+        "id": "4GJ6xDCF5jaUqD6avOuQT6",
+        "name": "FIFTY FIFTY",
+        "genres": []
+    },
+    {
+        "id": "3Fl31gc0mEUC2H0JWL1vic",
+        "name": "Paula Hartmann",
+        "genres": [
+            "german hip hop"
+        ]
+    },
+    {
+        "id": "1oSPZhvZMIrWW5I41kPkkY",
+        "name": "Jimin",
+        "genres": []
+    },
+    {
+        "id": "1DzHYzxnMTpElJgNoq1bEH",
+        "name": "GIO",
+        "genres": []
+    },
+    {
+        "id": "2EXpthNgSeTDeX8nGwxppp",
+        "name": "Paris Paloma",
+        "genres": []
+    },
+    {
+        "id": "6zcWVbyNT0z94MBffsTJGP",
+        "name": "KAMRAD",
+        "genres": [
+            "german indie folk"
+        ]
+    },
+    {
+        "id": "5TP8Ubo4jLKEi4Mw2O8fAk",
+        "name": "BM",
+        "genres": [
+            "previa"
+        ]
+    },
+    {
+        "id": "5v3JgLiZtNnw6ablRjjNKK",
+        "name": "Stefy De Cicco",
+        "genres": []
+    },
+    {
+        "id": "2sSVegHvvHIOT1gVsqw8EW",
+        "name": "Andrea Zelletta",
+        "genres": []
+    },
+    {
+        "id": "5c0lDrNyT2RnFhujZpPIas",
+        "name": "Victor Thompson",
+        "genres": []
+    },
+    {
+        "id": "6QdzKE9cMAEFZj1pYcxpsf",
+        "name": "Ehis 'D' Greatest",
+        "genres": []
+    }
+]
